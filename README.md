@@ -1,6 +1,6 @@
 # Automatic video chaptering with LLMs and TF-IDF
 
-[<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/automatic-video-chaptering/blob/main/video_chapter_generator.ipynb)
+[<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/automatic-video-chaptering/blob/master/video_chapter_generator.ipynb)
 
 This repository contains code for generating chapters for a video using a combination of LLMs and TF-IDF. See [main notebook](video_chapter_generator.ipynb).
 
