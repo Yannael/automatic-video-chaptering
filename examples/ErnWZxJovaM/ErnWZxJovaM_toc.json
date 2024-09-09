@@ -1,0 +1,90 @@
+[
+    {
+        "start_paragraph_number": 0,
+        "title": "Introduction to the Course"
+    },
+    {
+        "start_paragraph_number": 10,
+        "title": "Foundations of Deep Learning"
+    },
+    {
+        "start_paragraph_number": 20,
+        "title": "Course Structure and Labs"
+    },
+    {
+        "start_paragraph_number": 26,
+        "title": "Course Overview and Resources"
+    },
+    {
+        "start_paragraph_number": 29,
+        "title": "Introduction to Deep Learning"
+    },
+    {
+        "start_paragraph_number": 38,
+        "title": "Understanding Perceptrons"
+    },
+    {
+        "start_paragraph_number": 45,
+        "title": "Activation Functions in Neural Networks"
+    },
+    {
+        "start_paragraph_number": 50,
+        "title": "Importance of Nonlinearities"
+    },
+    {
+        "start_paragraph_number": 53,
+        "title": "Understanding Neural Networks: Basics and Components"
+    },
+    {
+        "start_paragraph_number": 62,
+        "title": "Building Neural Networks: From Perceptrons to Layers"
+    },
+    {
+        "start_paragraph_number": 73,
+        "title": "Introduction to Neural Networks"
+    },
+    {
+        "start_paragraph_number": 81,
+        "title": "Building a Deep Neural Network"
+    },
+    {
+        "start_paragraph_number": 84,
+        "title": "Applying Neural Networks to Real Problems"
+    },
+    {
+        "start_paragraph_number": 91,
+        "title": "Training Neural Networks"
+    },
+    {
+        "start_paragraph_number": 99,
+        "title": "Introduction to Binary Classification and Loss Functions"
+    },
+    {
+        "start_paragraph_number": 115,
+        "title": "Gradient Descent and Backpropagation"
+    },
+    {
+        "start_paragraph_number": 125,
+        "title": "Understanding Neural Network Loss Landscapes"
+    },
+    {
+        "start_paragraph_number": 139,
+        "title": "Optimizers and Learning Rates in Practice"
+    },
+    {
+        "start_paragraph_number": 141,
+        "title": "Batching Data for Efficient Training"
+    },
+    {
+        "start_paragraph_number": 149,
+        "title": "Understanding Overfitting and Underfitting"
+    },
+    {
+        "start_paragraph_number": 153,
+        "title": "Regularization Techniques in Neural Networks"
+    },
+    {
+        "start_paragraph_number": 160,
+        "title": "Summary and Transition to Next Lecture"
+    }
+]

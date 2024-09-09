@@ -53,7 +53,9 @@ system_prompt_transcript_to_paragraphs = f"""
 
 You are a helpful assistant.
 
-Your task is to improve the user input's readability: add punctuation if needed, remove verbal tics, correct grammatical errors, and add appropriate line breaks with '\n\n'.
+Your task is to improve the user input's readability: add punctuation if needed and remove verbal tics, and structure the text in paragraphs separated with '\n\n'.
+
+Keep the wording as faithful as possible to the original text. 
 
 Put your answer within <answer></answer> tags.
 
@@ -220,7 +222,6 @@ system_prompt_paragraphs_to_toc = """
 2. Look for clues that a new chapter is about to start. This could be a change of topic, a change of time or setting, the introduction of new themes or topics, or the speaker's explicit mention of a new part.
 3. For each chapter, keep track of the paragraph number that starts the chapter and identify a meaningful chapter title.
 4. Chapters should ideally be equally spaced throughout the transcript, and discuss a specific topic.
-5. A chapter MUST have more than 4 paragraphs.
 
 	Format your result in JSON, with a list dictionaries for chapters, with 'start_paragraph_number':integer and 'title':string as key:value.
 

@@ -1,0 +1,7158 @@
+[
+    {
+        "start": 1.17,
+        "text": "[Music]"
+    },
+    {
+        "start": 10.28,
+        "text": "good afternoon everyone and welcome to"
+    },
+    {
+        "start": 12.88,
+        "text": "MIT sus1 191 my name is Alexander amini"
+    },
+    {
+        "start": 16.84,
+        "text": "and I'll be one of your instructors for"
+    },
+    {
+        "start": 18.32,
+        "text": "the course this year along with Ava and"
+    },
+    {
+        "start": 21.56,
+        "text": "together we're really excited to welcome"
+    },
+    {
+        "start": 23.359,
+        "text": "you to this really incredible course"
+    },
+    {
+        "start": 25.16,
+        "text": "this is a very fast-paced and very uh"
+    },
+    {
+        "start": 29.24,
+        "text": "intense one week that we're about to go"
+    },
+    {
+        "start": 32.079,
+        "text": "through together right so we're going to"
+    },
+    {
+        "start": 33.559,
+        "text": "cover the foundations of a also very"
+    },
+    {
+        "start": 36.52,
+        "text": "fast-paced moving field and a field that"
+    },
+    {
+        "start": 39.239,
+        "text": "has been rapidly changing over the past"
+    },
+    {
+        "start": 41.96,
+        "text": "eight years that we have taught this"
+    },
+    {
+        "start": 43.719,
+        "text": "course at MIT now over the past decade"
+    },
+    {
+        "start": 48.36,
+        "text": "in fact even before we started teaching"
+    },
+    {
+        "start": 50.48,
+        "text": "this course Ai and deep learning has"
+    },
+    {
+        "start": 52.8,
+        "text": "really been revolutionizing so many"
+    },
+    {
+        "start": 55.6,
+        "text": "different advances and so many different"
+    },
+    {
+        "start": 58.359,
+        "text": "areas of science meth mathematics"
+    },
+    {
+        "start": 60.519,
+        "text": "physics and and so on and not that long"
+    },
+    {
+        "start": 63.879,
+        "text": "ago we were having new types of we were"
+    },
+    {
+        "start": 67.159,
+        "text": "having challenges and problems that we"
+    },
+    {
+        "start": 70.36,
+        "text": "did not think were necessarily solvable"
+    },
+    {
+        "start": 72.92,
+        "text": "in our lifetimes that AI is now actually"
+    },
+    {
+        "start": 75.799,
+        "text": "solving uh Beyond human performance"
+    },
+    {
+        "start": 79.6,
+        "text": "today and each year that we teach this"
+    },
+    {
+        "start": 82.52,
+        "text": "course uh this lecture in particular is"
+    },
+    {
+        "start": 85.72,
+        "text": "getting harder and harder to teach"
+    },
+    {
+        "start": 87.72,
+        "text": "because for an introductory level course"
+    },
+    {
+        "start": 90.92,
+        "text": "this lecture lecture number one is the"
+    },
+    {
+        "start": 93.28,
+        "text": "lecture that's supposed to cover the"
+    },
+    {
+        "start": 94.36,
+        "text": "foundations and if you think to any"
+    },
+    {
+        "start": 96.36,
+        "text": "other introductory course like a"
+    },
+    {
+        "start": 98.64,
+        "text": "introductory course 101 on mathematics"
+    },
+    {
+        "start": 101.36,
+        "text": "or biology those lecture ones don't"
+    },
+    {
+        "start": 103.84,
+        "text": "really change that much over time but"
+    },
+    {
+        "start": 106.24,
+        "text": "we're in a rapidly changing field of AI"
+    },
+    {
+        "start": 108.799,
+        "text": "and deep learning where even these types"
+    },
+    {
+        "start": 112.0,
+        "text": "of lectures are rapidly changing so let"
+    },
+    {
+        "start": 115.6,
+        "text": "me give you an example of how we"
+    },
+    {
+        "start": 117.24,
+        "text": "introduced this course only a few years"
+    },
+    {
+        "start": 119.56,
+        "text": "ago"
+    },
+    {
+        "start": 121.68,
+        "text": "hi everybody and welcome to MIT 6s"
+    },
+    {
+        "start": 126.32,
+        "text": "one91 the official introductory course"
+    },
+    {
+        "start": 129.72,
+        "text": "on deep learning taught here at"
+    },
+    {
+        "start": 133.44,
+        "text": "MIT deep learning is revolutionizing so"
+    },
+    {
+        "start": 137.44,
+        "text": "many fields from robotics to medicine"
+    },
+    {
+        "start": 141.28,
+        "text": "and everything in"
+    },
+    {
+        "start": 143.2,
+        "text": "between you'll learn the fundamentals of"
+    },
+    {
+        "start": 146.599,
+        "text": "this field and how you can build so"
+    },
+    {
+        "start": 150.12,
+        "text": "these incredible"
+    },
+    {
+        "start": 152.44,
+        "text": "algorithms in fact this entire speech"
+    },
+    {
+        "start": 156.319,
+        "text": "and in video are not real and were"
+    },
+    {
+        "start": 159.84,
+        "text": "created using deep learning and"
+    },
+    {
+        "start": 162.72,
+        "text": "artificial"
+    },
+    {
+        "start": 164.8,
+        "text": "intelligence and in this class you'll"
+    },
+    {
+        "start": 167.4,
+        "text": "learn how it has been an honor to speak"
+    },
+    {
+        "start": 170.92,
+        "text": "with you today and I hope you enjoy the"
+    },
+    {
+        "start": 176.92,
+        "text": "course the really surprising thing about"
+    },
+    {
+        "start": 180.64,
+        "text": "that video to me when we first did it"
+    },
+    {
+        "start": 183.68,
+        "text": "was how viral it went a few years ago so"
+    },
+    {
+        "start": 187.04,
+        "text": "just in a couple months of us teaching"
+    },
+    {
+        "start": 189.04,
+        "text": "this course a few years ago that video"
+    },
+    {
+        "start": 191.08,
+        "text": "went very viral right it got over a"
+    },
+    {
+        "start": 193.4,
+        "text": "million views within only a few months"
+    },
+    {
+        "start": 196.2,
+        "text": "uh people were shocked with a few things"
+    },
+    {
+        "start": 198.599,
+        "text": "but the main one was the realism of AI"
+    },
+    {
+        "start": 202.36,
+        "text": "to be able to generate content that"
+    },
+    {
+        "start": 205.64,
+        "text": "looks and sounds extremely"
+    },
+    {
+        "start": 208.36,
+        "text": "hyperrealistic"
+    },
+    {
+        "start": 209.959,
+        "text": "right and when we did this video when we"
+    },
+    {
+        "start": 212.239,
+        "text": "created this for the class only a few"
+    },
+    {
+        "start": 214.48,
+        "text": "years ago this video took us about"
+    },
+    {
+        "start": 217.159,
+        "text": "$10,000 and compute to generate just"
+    },
+    {
+        "start": 219.72,
+        "text": "about a minute long video extremely I"
+    },
+    {
+        "start": 222.2,
+        "text": "mean if you think about it I would say"
+    },
+    {
+        "start": 223.64,
+        "text": "it's extremely expensive to compute"
+    },
+    {
+        "start": 225.76,
+        "text": "something what we look at like that and"
+    },
+    {
+        "start": 227.84,
+        "text": "maybe a lot of you are not really even"
+    },
+    {
+        "start": 229.239,
+        "text": "impressed by the technology today"
+    },
+    {
+        "start": 231.159,
+        "text": "because you see all of the amazing"
+    },
+    {
+        "start": 232.599,
+        "text": "things that Ai and deep learning are"
+    },
+    {
+        "start": 235.439,
+        "text": "producing now fast forward today the"
+    },
+    {
+        "start": 238.4,
+        "text": "progress in deep learning yeah and"
+    },
+    {
+        "start": 240.2,
+        "text": "people were making all kinds of you know"
+    },
+    {
+        "start": 242.72,
+        "text": "exciting remarks about it when it came"
+    },
+    {
+        "start": 244.48,
+        "text": "out a few years ago now this is common"
+    },
+    {
+        "start": 246.12,
+        "text": "stuff because AI is really uh doing much"
+    },
+    {
+        "start": 249.319,
+        "text": "more powerful things than this fun"
+    },
+    {
+        "start": 251.76,
+        "text": "little introductory video so today fast"
+    },
+    {
+        "start": 255.92,
+        "text": "forward four years about yeah four years"
+    },
+    {
+        "start": 259.0,
+        "text": "to today right now where are we AI is"
+    },
+    {
+        "start": 261.799,
+        "text": "now generating content with deep"
+    },
+    {
+        "start": 264.84,
+        "text": "learning being so commoditized right"
+    },
+    {
+        "start": 267.56,
+        "text": "deep learning is in all of our"
+    },
+    {
+        "start": 269.039,
+        "text": "fingertips now online in our smartphones"
+    },
+    {
+        "start": 272.52,
+        "text": "and so on in fact we can use deep"
+    },
+    {
+        "start": 275.6,
+        "text": "learning to generate these types of"
+    },
+    {
+        "start": 279.24,
+        "text": "hyperrealistic pieces of media and"
+    },
+    {
+        "start": 281.72,
+        "text": "content entirely from English language"
+    },
+    {
+        "start": 284.56,
+        "text": "without even coding anymore right so"
+    },
+    {
+        "start": 286.8,
+        "text": "before we had to actually go in train"
+    },
+    {
+        "start": 288.44,
+        "text": "these models and and really code them to"
+    },
+    {
+        "start": 291.24,
+        "text": "be able to create that one minute long"
+    },
+    {
+        "start": 293.32,
+        "text": "video today we have models that will do"
+    },
+    {
+        "start": 295.88,
+        "text": "that for us end to end directly from"
+    },
+    {
+        "start": 298.44,
+        "text": "English language so we can these models"
+    },
+    {
+        "start": 300.68,
+        "text": "to create something that the world has"
+    },
+    {
+        "start": 302.28,
+        "text": "never seen before a photo of an"
+    },
+    {
+        "start": 304.24,
+        "text": "astronaut riding a horse and these"
+    },
+    {
+        "start": 306.16,
+        "text": "models can imagine those pieces of"
+    },
+    {
+        "start": 308.72,
+        "text": "content entirely from scratch my"
+    },
+    {
+        "start": 311.72,
+        "text": "personal favorite is actually how we can"
+    },
+    {
+        "start": 313.24,
+        "text": "now ask these deep learning models to uh"
+    },
+    {
+        "start": 317.12,
+        "text": "create new types of software even"
+    },
+    {
+        "start": 319.36,
+        "text": "themselves being software to ask them to"
+    },
+    {
+        "start": 321.72,
+        "text": "create for example to write this piece"
+    },
+    {
+        "start": 324.12,
+        "text": "of tensorflow code to train a neural"
+    },
+    {
+        "start": 327.199,
+        "text": "network right we're asking a neural"
+    },
+    {
+        "start": 328.6,
+        "text": "network to write t flow code to train"
+    },
+    {
+        "start": 331.8,
+        "text": "another neural network and our model can"
+    },
+    {
+        "start": 333.8,
+        "text": "produce examples of functional and"
+    },
+    {
+        "start": 336.68,
+        "text": "usable pieces of code that satisfy this"
+    },
+    {
+        "start": 340.44,
+        "text": "English prompt while walking through"
+    },
+    {
+        "start": 342.919,
+        "text": "each part of the code independently so"
+    },
+    {
+        "start": 344.96,
+        "text": "not even just producing it but actually"
+    },
+    {
+        "start": 346.8,
+        "text": "educating and teaching the user on what"
+    },
+    {
+        "start": 349.28,
+        "text": "each part of these uh code blocks are"
+    },
+    {
+        "start": 351.72,
+        "text": "actually doing you can see example here"
+    },
+    {
+        "start": 355.16,
+        "text": "and really what I'm trying to show you"
+    },
+    {
+        "start": 356.72,
+        "text": "with all of this is that this is just"
+    },
+    {
+        "start": 359.639,
+        "text": "highlighting how far deep learning has"
+    },
+    {
+        "start": 362.16,
+        "text": "gone even in a couple years since we've"
+    },
+    {
+        "start": 364.84,
+        "text": "started teaching this course I mean"
+    },
+    {
+        "start": 367.4,
+        "text": "going back even from before that to"
+    },
+    {
+        "start": 369.12,
+        "text": "eight years ago and the most amazing"
+    },
+    {
+        "start": 371.68,
+        "text": "thing that you'll see in this course in"
+    },
+    {
+        "start": 374.599,
+        "text": "my opinion is that what we try to do"
+    },
+    {
+        "start": 377.479,
+        "text": "here is to teach you the foundations of"
+    },
+    {
+        "start": 379.44,
+        "text": "all of this how all of these different"
+    },
+    {
+        "start": 381.599,
+        "text": "types of models are created from the"
+    },
+    {
+        "start": 383.72,
+        "text": "ground up and how we can make all of"
+    },
+    {
+        "start": 386.599,
+        "text": "these amazing advances possible so that"
+    },
+    {
+        "start": 388.759,
+        "text": "you can also do it on your own as well"
+    },
+    {
+        "start": 391.44,
+        "text": "and like I mentioned in the beginning"
+    },
+    {
+        "start": 392.72,
+        "text": "this introduction course is getting"
+    },
+    {
+        "start": 394.68,
+        "text": "harder and harder to do uh and to make"
+    },
+    {
+        "start": 397.84,
+        "text": "every year I don't know where the field"
+    },
+    {
+        "start": 399.56,
+        "text": "is going to be next year and I mean"
+    },
+    {
+        "start": 402.36,
+        "text": "that's my my honest truth or even"
+    },
+    {
+        "start": 405.039,
+        "text": "honestly in even one or two months time"
+    },
+    {
+        "start": 407.28,
+        "text": "from now uh just because it's moving so"
+    },
+    {
+        "start": 410.28,
+        "text": "incredibly fast but what I do know is"
+    },
+    {
+        "start": 412.8,
+        "text": "that uh what we will share with you in"
+    },
+    {
+        "start": 414.84,
+        "text": "the course as part of this one week is"
+    },
+    {
+        "start": 417.56,
+        "text": "going to be the foundations of all of"
+    },
+    {
+        "start": 419.12,
+        "text": "the tech technologies that we have seen"
+    },
+    {
+        "start": 421.039,
+        "text": "up until this point that will allow you"
+    },
+    {
+        "start": 422.84,
+        "text": "to create that future for yourselves and"
+    },
+    {
+        "start": 425.0,
+        "text": "to design brand new types of deep"
+    },
+    {
+        "start": 427.039,
+        "text": "learning models uh using those"
+    },
+    {
+        "start": 429.599,
+        "text": "fundamentals and those"
+    },
+    {
+        "start": 432.44,
+        "text": "foundations so let's get started with"
+    },
+    {
+        "start": 435.479,
+        "text": "with all of that and start to figure out"
+    },
+    {
+        "start": 437.199,
+        "text": "how we can actually achieve all of these"
+    },
+    {
+        "start": 439.52,
+        "text": "different pieces and learn all of these"
+    },
+    {
+        "start": 442.319,
+        "text": "different components and we should start"
+    },
+    {
+        "start": 444.52,
+        "text": "this by really tackling the foundations"
+    },
+    {
+        "start": 447.56,
+        "text": "from the very beginning and asking"
+    },
+    {
+        "start": 449.08,
+        "text": "ourselves"
+    },
+    {
+        "start": 450.16,
+        "text": "you know we've heard this term I think"
+    },
+    {
+        "start": 451.68,
+        "text": "all of you obviously before you've come"
+    },
+    {
+        "start": 453.56,
+        "text": "to this class today you've heard the"
+    },
+    {
+        "start": 455.0,
+        "text": "term deep learning but it's important"
+    },
+    {
+        "start": 456.919,
+        "text": "for you to really understand how this"
+    },
+    {
+        "start": 459.12,
+        "text": "concept of deep learning relates to all"
+    },
+    {
+        "start": 461.919,
+        "text": "of the other pieces of science that"
+    },
+    {
+        "start": 463.879,
+        "text": "you've learned about so far so to do"
+    },
+    {
+        "start": 466.52,
+        "text": "that we have to start from the very"
+    },
+    {
+        "start": 467.919,
+        "text": "beginning and start by thinking about"
+    },
+    {
+        "start": 469.68,
+        "text": "what is intelligence at its core not"
+    },
+    {
+        "start": 472.08,
+        "text": "even artificial intelligence but just"
+    },
+    {
+        "start": 474.0,
+        "text": "intelligence right so the way I like to"
+    },
+    {
+        "start": 476.039,
+        "text": "think about this is that I like to think"
+    },
+    {
+        "start": 478.68,
+        "text": "that in elligence is the ability to"
+    },
+    {
+        "start": 482.759,
+        "text": "process"
+    },
+    {
+        "start": 483.759,
+        "text": "information which will inform your"
+    },
+    {
+        "start": 486.08,
+        "text": "future decision-mak"
+    },
+    {
+        "start": 487.72,
+        "text": "abilities now that's something that we"
+    },
+    {
+        "start": 489.759,
+        "text": "as humans do every single day now"
+    },
+    {
+        "start": 492.479,
+        "text": "artificial intelligence is simply the"
+    },
+    {
+        "start": 495.08,
+        "text": "ability for us to give computers that"
+    },
+    {
+        "start": 497.479,
+        "text": "same ability to process information and"
+    },
+    {
+        "start": 500.68,
+        "text": "inform future"
+    },
+    {
+        "start": 502.479,
+        "text": "decisions now machine learning is simply"
+    },
+    {
+        "start": 505.639,
+        "text": "a subset of artificial intelligence the"
+    },
+    {
+        "start": 508.599,
+        "text": "way you should think of machine learning"
+    },
+    {
+        "start": 510.72,
+        "text": "is just as the programming ability or"
+    },
+    {
+        "start": 513.599,
+        "text": "let's say even simpler than that machine"
+    },
+    {
+        "start": 515.479,
+        "text": "learning is the science"
+    },
+    {
+        "start": 518.64,
+        "text": "of of trying to teach computers how to"
+    },
+    {
+        "start": 522.24,
+        "text": "do that processing of information and"
+    },
+    {
+        "start": 524.76,
+        "text": "decision making from data so instead of"
+    },
+    {
+        "start": 527.92,
+        "text": "hardcoding some of these rules into"
+    },
+    {
+        "start": 529.88,
+        "text": "machines and programming them like we"
+    },
+    {
+        "start": 532.16,
+        "text": "used to do in in software engineering"
+    },
+    {
+        "start": 534.0,
+        "text": "classes now we're going to try and do"
+    },
+    {
+        "start": 536.04,
+        "text": "that processing of information and"
+    },
+    {
+        "start": 538.36,
+        "text": "informing a future decision decision"
+    },
+    {
+        "start": 539.64,
+        "text": "making abilities directly from data and"
+    },
+    {
+        "start": 542.6,
+        "text": "then going one step deeper deep learning"
+    },
+    {
+        "start": 544.959,
+        "text": "is simply the subset of machine learning"
+    },
+    {
+        "start": 547.24,
+        "text": "which uses neural networks to do that it"
+    },
+    {
+        "start": 549.92,
+        "text": "uses neural networks to process raw"
+    },
+    {
+        "start": 552.56,
+        "text": "pieces of data now unprocessed data and"
+    },
+    {
+        "start": 555.72,
+        "text": "allows them to ingest all of those very"
+    },
+    {
+        "start": 558.16,
+        "text": "large data sets and inform future"
+    },
+    {
+        "start": 560.56,
+        "text": "decisions now that's exactly what this"
+    },
+    {
+        "start": 563.24,
+        "text": "class is is really all about if you"
+    },
+    {
+        "start": 565.6,
+        "text": "think of if I had to summarize this"
+    },
+    {
+        "start": 567.44,
+        "text": "class in just one line it's about"
+    },
+    {
+        "start": 569.76,
+        "text": "teaching machines how to process data"
+    },
+    {
+        "start": 572.519,
+        "text": "process information and inform"
+    },
+    {
+        "start": 574.959,
+        "text": "decision-mak abilities from that data"
+    },
+    {
+        "start": 577.44,
+        "text": "and learn it from that"
+    },
+    {
+        "start": 579.64,
+        "text": "data now this program is split between"
+    },
+    {
+        "start": 584.079,
+        "text": "really two different parts so you should"
+    },
+    {
+        "start": 586.0,
+        "text": "think of this class as being captured"
+    },
+    {
+        "start": 588.04,
+        "text": "with both technical lectures which for"
+    },
+    {
+        "start": 590.92,
+        "text": "example this is one part of as well as"
+    },
+    {
+        "start": 593.56,
+        "text": "software Labs we'll have several new"
+    },
+    {
+        "start": 596.04,
+        "text": "updates this year as I mentioned earlier"
+    },
+    {
+        "start": 598.12,
+        "text": "just covering the rap changing of"
+    },
+    {
+        "start": 600.0,
+        "text": "advances in Ai and especially in some of"
+    },
+    {
+        "start": 602.76,
+        "text": "the later lectures you're going to see"
+    },
+    {
+        "start": 604.44,
+        "text": "those the first lecture today is going"
+    },
+    {
+        "start": 606.839,
+        "text": "to cover the foundations of neural"
+    },
+    {
+        "start": 608.88,
+        "text": "networks themselves uh starting with"
+    },
+    {
+        "start": 611.64,
+        "text": "really the building blocks of every"
+    },
+    {
+        "start": 613.32,
+        "text": "single neural network which is called"
+    },
+    {
+        "start": 614.76,
+        "text": "the perceptron and finally we'll go"
+    },
+    {
+        "start": 617.399,
+        "text": "through the week and we'll conclude with"
+    },
+    {
+        "start": 619.88,
+        "text": "a series of exciting guest lectures from"
+    },
+    {
+        "start": 622.72,
+        "text": "industry leading sponsors of the course"
+    },
+    {
+        "start": 625.68,
+        "text": "and finally on the software side after"
+    },
+    {
+        "start": 629.64,
+        "text": "every lecture you'll also get software"
+    },
+    {
+        "start": 632.079,
+        "text": "experience and project building"
+    },
+    {
+        "start": 633.839,
+        "text": "experience to be able to take what we"
+    },
+    {
+        "start": 635.72,
+        "text": "teach in lectures and actually deploy"
+    },
+    {
+        "start": 637.88,
+        "text": "them in real code and and actually"
+    },
+    {
+        "start": 640.839,
+        "text": "produce based on the learnings that you"
+    },
+    {
+        "start": 643.24,
+        "text": "find in this lecture and at the very end"
+    },
+    {
+        "start": 644.959,
+        "text": "of the class from the software side"
+    },
+    {
+        "start": 646.92,
+        "text": "you'll have the ability to participate"
+    },
+    {
+        "start": 648.839,
+        "text": "in a really fun day at the very end"
+    },
+    {
+        "start": 651.32,
+        "text": "which is the project pitch competition"
+    },
+    {
+        "start": 653.519,
+        "text": "it's kind of like a shark tank style"
+    },
+    {
+        "start": 655.36,
+        "text": "competition of all of the different uh"
+    },
+    {
+        "start": 657.639,
+        "text": "projects from all of you and win some"
+    },
+    {
+        "start": 659.8,
+        "text": "really awesome prizes so let's step"
+    },
+    {
+        "start": 662.24,
+        "text": "through that a little bit briefly this"
+    },
+    {
+        "start": 663.6,
+        "text": "is the the syllabus part of the lecture"
+    },
+    {
+        "start": 666.72,
+        "text": "so each day we'll have dedicated"
+    },
+    {
+        "start": 668.399,
+        "text": "software Labs that will basically mirror"
+    },
+    {
+        "start": 671.16,
+        "text": "all of the technical lectures that we go"
+    },
+    {
+        "start": 672.92,
+        "text": "through just helping you reinforce your"
+    },
+    {
+        "start": 674.48,
+        "text": "learnings and these are coupled with"
+    },
+    {
+        "start": 676.8,
+        "text": "each day again coupled with prizes for"
+    },
+    {
+        "start": 679.639,
+        "text": "the top performing software solutions"
+    },
+    {
+        "start": 681.76,
+        "text": "that are coming up in the class this is"
+    },
+    {
+        "start": 683.519,
+        "text": "going to start with today with lab one"
+    },
+    {
+        "start": 686.12,
+        "text": "and it's going to be on music generation"
+    },
+    {
+        "start": 688.32,
+        "text": "so you're going to learn how to build a"
+    },
+    {
+        "start": 689.8,
+        "text": "neural network that can learn from a"
+    },
+    {
+        "start": 692.44,
+        "text": "bunch of musical songs listen to them"
+    },
+    {
+        "start": 695.76,
+        "text": "and then learn to compose brand new"
+    },
+    {
+        "start": 697.76,
+        "text": "songs in that same"
+    },
+    {
+        "start": 700.44,
+        "text": "genre tomorrow lab two on computer"
+    },
+    {
+        "start": 703.32,
+        "text": "vision you're going to learn about"
+    },
+    {
+        "start": 705.639,
+        "text": "facial detection systems you'll build a"
+    },
+    {
+        "start": 707.92,
+        "text": "facial detection system from scratch"
+    },
+    {
+        "start": 710.279,
+        "text": "using uh convolutional neural networks"
+    },
+    {
+        "start": 712.6,
+        "text": "you'll learn what that means tomorrow"
+    },
+    {
+        "start": 714.72,
+        "text": "and you'll also learn how to actually"
+    },
+    {
+        "start": 716.92,
+        "text": "debias remove the biases that exist in"
+    },
+    {
+        "start": 719.76,
+        "text": "some of these facial detection systems"
+    },
+    {
+        "start": 721.959,
+        "text": "which is a huge problem for uh the"
+    },
+    {
+        "start": 724.079,
+        "text": "state-of-the-art solutions that exist"
+    },
+    {
+        "start": 725.839,
+        "text": "today and finally a brand new Lab at the"
+    },
+    {
+        "start": 729.2,
+        "text": "end of the course will focus on large"
+    },
+    {
+        "start": 731.36,
+        "text": "language models well where you're"
+    },
+    {
+        "start": 733.36,
+        "text": "actually going to take a billion"
+    },
+    {
+        "start": 735.32,
+        "text": "multi-billion parameter large language"
+    },
+    {
+        "start": 737.24,
+        "text": "model and fine-tune it to build an"
+    },
+    {
+        "start": 740.279,
+        "text": "assistive chatbot and evaluate a set of"
+    },
+    {
+        "start": 743.56,
+        "text": "cognitive abilities ranging from"
+    },
+    {
+        "start": 745.079,
+        "text": "mathematics abilities to Scientific"
+    },
+    {
+        "start": 746.839,
+        "text": "reasoning to logical abilities and so so"
+    },
+    {
+        "start": 750.199,
+        "text": "on and finally at the very very end"
+    },
+    {
+        "start": 753.16,
+        "text": "there will be a final project pitch"
+    },
+    {
+        "start": 755.24,
+        "text": "competition for up to 5 minutes per team"
+    },
+    {
+        "start": 758.92,
+        "text": "and all of these are accompanied with"
+    },
+    {
+        "start": 760.92,
+        "text": "great prices so definitely there will be"
+    },
+    {
+        "start": 762.959,
+        "text": "a lot of fun to be had throughout the"
+    },
+    {
+        "start": 764.32,
+        "text": "week there are many resources to help"
+    },
+    {
+        "start": 767.12,
+        "text": "with this class you'll see them posted"
+    },
+    {
+        "start": 769.079,
+        "text": "here you don't need to write them down"
+    },
+    {
+        "start": 770.32,
+        "text": "because all of the slides are already"
+    },
+    {
+        "start": 771.8,
+        "text": "posted online please post to Piaza if"
+    },
+    {
+        "start": 774.279,
+        "text": "you have any questions and of course we"
+    },
+    {
+        "start": 777.16,
+        "text": "have an amazing team uh that is helping"
+    },
+    {
+        "start": 779.959,
+        "text": "teach this course this year and you can"
+    },
+    {
+        "start": 782.079,
+        "text": "reach out to any of us if you have any"
+    },
+    {
+        "start": 783.88,
+        "text": "questions the Piaza is a great place to"
+    },
+    {
+        "start": 785.76,
+        "text": "start myself and AA will be the two main"
+    },
+    {
+        "start": 788.8,
+        "text": "lectures for this course uh Monday"
+    },
+    {
+        "start": 791.32,
+        "text": "through Wednesday especially and we'll"
+    },
+    {
+        "start": 793.079,
+        "text": "also be hearing some amazing guest"
+    },
+    {
+        "start": 794.76,
+        "text": "lectures on the second half of the"
+    },
+    {
+        "start": 796.88,
+        "text": "course which definitely you would want"
+    },
+    {
+        "start": 798.639,
+        "text": "to attend because they they really cover"
+    },
+    {
+        "start": 800.88,
+        "text": "the really state-of-the-art sides of"
+    },
+    {
+        "start": 803.16,
+        "text": "deep learning uh that's going on in"
+    },
+    {
+        "start": 805.24,
+        "text": "Industry outside of"
+    },
+    {
+        "start": 807.68,
+        "text": "Academia and very briefly just want to"
+    },
+    {
+        "start": 809.959,
+        "text": "give a huge thanks to all of our"
+    },
+    {
+        "start": 811.76,
+        "text": "sponsors who without their support this"
+    },
+    {
+        "start": 813.88,
+        "text": "course like every year would not be"
+    },
+    {
+        "start": 816.279,
+        "text": "possible okay so now let's start with"
+    },
+    {
+        "start": 818.519,
+        "text": "the the fun stuff and my favorite part"
+    },
+    {
+        "start": 820.8,
+        "text": "of of the course which is the technical"
+    },
+    {
+        "start": 822.6,
+        "text": "parts and let's start by just asking"
+    },
+    {
+        "start": 824.76,
+        "text": "ourselves a question right which is you"
+    },
+    {
+        "start": 828.399,
+        "text": "know why do we care about all of this"
+    },
+    {
+        "start": 830.279,
+        "text": "why do we care about deep learning why"
+    },
+    {
+        "start": 831.639,
+        "text": "did you all come here today to learn and"
+    },
+    {
+        "start": 834.079,
+        "text": "to listen to this"
+    },
+    {
+        "start": 835.8,
+        "text": "course so to understand I think we again"
+    },
+    {
+        "start": 838.72,
+        "text": "need to go back a little bit to"
+    },
+    {
+        "start": 840.88,
+        "text": "understand how machine learning used to"
+    },
+    {
+        "start": 842.68,
+        "text": "be uh performed right so machine"
+    },
+    {
+        "start": 845.48,
+        "text": "learning typically would Define a set of"
+    },
+    {
+        "start": 849.24,
+        "text": "features or you can think of these as"
+    },
+    {
+        "start": 850.92,
+        "text": "kind of a set of things to look for in"
+    },
+    {
+        "start": 853.839,
+        "text": "an image or in a piece of data usually"
+    },
+    {
+        "start": 856.44,
+        "text": "these are hand engineered so humans"
+    },
+    {
+        "start": 858.639,
+        "text": "would have to Define these themselves"
+    },
+    {
+        "start": 861.24,
+        "text": "and the problem with these is that they"
+    },
+    {
+        "start": 862.759,
+        "text": "tend to be very brittle in practice just"
+    },
+    {
+        "start": 865.279,
+        "text": "by nature of a human defining them so"
+    },
+    {
+        "start": 867.519,
+        "text": "the key idea of keep learning and what"
+    },
+    {
+        "start": 869.8,
+        "text": "you're going to learn throughout this"
+    },
+    {
+        "start": 871.079,
+        "text": "entire week is this Paradigm Shift of"
+    },
+    {
+        "start": 873.56,
+        "text": "trying to move away from hand"
+    },
+    {
+        "start": 875.199,
+        "text": "engineering features and rules that"
+    },
+    {
+        "start": 877.839,
+        "text": "computer should look for and instead"
+    },
+    {
+        "start": 879.72,
+        "text": "trying to learn them directly from raw"
+    },
+    {
+        "start": 882.72,
+        "text": "pieces of data so what are the patterns"
+    },
+    {
+        "start": 885.639,
+        "text": "that we need to look at in data sets"
+    },
+    {
+        "start": 888.399,
+        "text": "such that if we look at those patterns"
+    },
+    {
+        "start": 890.44,
+        "text": "we can make some interesting decisions"
+    },
+    {
+        "start": 892.36,
+        "text": "and interesting actions can come out so"
+    },
+    {
+        "start": 894.88,
+        "text": "for example if we wanted to learn how to"
+    },
+    {
+        "start": 897.12,
+        "text": "detect faces we might if you think even"
+    },
+    {
+        "start": 900.16,
+        "text": "how you would detect faces right if you"
+    },
+    {
+        "start": 901.8,
+        "text": "look at a picture what are you looking"
+    },
+    {
+        "start": 903.279,
+        "text": "for to detect a face you're looking for"
+    },
+    {
+        "start": 905.16,
+        "text": "some particular patterns you're looking"
+    },
+    {
+        "start": 907.0,
+        "text": "for eyes and noses and ears and when"
+    },
+    {
+        "start": 909.639,
+        "text": "those things are all composed in a"
+    },
+    {
+        "start": 911.16,
+        "text": "certain way you would probably deduce"
+    },
+    {
+        "start": 913.16,
+        "text": "that that's a face right computers do"
+    },
+    {
+        "start": 915.6,
+        "text": "something very similar so they have to"
+    },
+    {
+        "start": 917.88,
+        "text": "understand what are the patterns that"
+    },
+    {
+        "start": 919.6,
+        "text": "they look for what are the eyes and"
+    },
+    {
+        "start": 921.24,
+        "text": "noses and ears of those pieces of data"
+    },
+    {
+        "start": 924.48,
+        "text": "and then from there actually detect and"
+    },
+    {
+        "start": 927.8,
+        "text": "predict from them"
+    },
+    {
+        "start": 930.959,
+        "text": "so the really interesting thing I think"
+    },
+    {
+        "start": 934.12,
+        "text": "about deep learning is that these"
+    },
+    {
+        "start": 936.12,
+        "text": "foundations for doing exactly what I"
+    },
+    {
+        "start": 938.44,
+        "text": "just mentioned picking out the building"
+    },
+    {
+        "start": 940.6,
+        "text": "blocks picking out the features from raw"
+    },
+    {
+        "start": 943.04,
+        "text": "pieces of data and the underlying"
+    },
+    {
+        "start": 945.199,
+        "text": "algorithms themselves have existed for"
+    },
+    {
+        "start": 947.6,
+        "text": "many many decades now the question I"
+    },
+    {
+        "start": 952.199,
+        "text": "would ask at this point is so why are we"
+    },
+    {
+        "start": 954.639,
+        "text": "studying this now and why is all of this"
+    },
+    {
+        "start": 956.519,
+        "text": "really blowing up right now and"
+    },
+    {
+        "start": 958.16,
+        "text": "exploding with so many great advances"
+    },
+    {
+        "start": 960.44,
+        "text": "well for one there's three things right"
+    },
+    {
+        "start": 962.639,
+        "text": "number one is that the data that is"
+    },
+    {
+        "start": 964.56,
+        "text": "available to us today is significantly"
+    },
+    {
+        "start": 967.839,
+        "text": "more pervasive these models are hungry"
+    },
+    {
+        "start": 970.199,
+        "text": "for data you're going to learn about"
+    },
+    {
+        "start": 971.68,
+        "text": "this more in detail but these models are"
+    },
+    {
+        "start": 973.759,
+        "text": "extremely hungry for data and we're"
+    },
+    {
+        "start": 975.92,
+        "text": "living in a world right now quite"
+    },
+    {
+        "start": 978.88,
+        "text": "frankly where data is more abundant than"
+    },
+    {
+        "start": 981.0,
+        "text": "it has ever been in our history now"
+    },
+    {
+        "start": 983.959,
+        "text": "secondly these algorithms are massively"
+    },
+    {
+        "start": 986.88,
+        "text": "compute hungry they're and they're"
+    },
+    {
+        "start": 988.36,
+        "text": "massively parallelizable which means"
+    },
+    {
+        "start": 990.6,
+        "text": "that they have greatly benefited from"
+    },
+    {
+        "start": 993.72,
+        "text": "compute Hardware which is also capable"
+    },
+    {
+        "start": 996.12,
+        "text": "of being parallelized the particular"
+    },
+    {
+        "start": 999.319,
+        "text": "name of that Hardware is called a GPU"
+    },
+    {
+        "start": 1001.68,
+        "text": "right gpus can run parallel processing"
+    },
+    {
+        "start": 1004.6,
+        "text": "uh streams of information and are"
+    },
+    {
+        "start": 1007.0,
+        "text": "particularly amenable to deep learning"
+    },
+    {
+        "start": 1008.8,
+        "text": "algorithms and the abundance of gpus and"
+    },
+    {
+        "start": 1011.279,
+        "text": "that compute Hardware has also push"
+    },
+    {
+        "start": 1013.639,
+        "text": "forward what we can do in deep learning"
+    },
+    {
+        "start": 1016.519,
+        "text": "and finally the last piece is the"
+    },
+    {
+        "start": 1018.44,
+        "text": "software"
+    },
+    {
+        "start": 1019.399,
+        "text": "right it's the open source tools that"
+    },
+    {
+        "start": 1021.639,
+        "text": "are really used as the foundational"
+    },
+    {
+        "start": 1024.52,
+        "text": "building blocks of deploying and"
+    },
+    {
+        "start": 1026.88,
+        "text": "building all of these underlying models"
+    },
+    {
+        "start": 1028.919,
+        "text": "that you're going to learn about in this"
+    },
+    {
+        "start": 1030.28,
+        "text": "course and those open source tools have"
+    },
+    {
+        "start": 1032.0,
+        "text": "just become extremely streamlined making"
+    },
+    {
+        "start": 1034.24,
+        "text": "this extremely easy for all of us to"
+    },
+    {
+        "start": 1037.16,
+        "text": "learn about these Technologies within an"
+    },
+    {
+        "start": 1039.24,
+        "text": "amazing onewe course like"
+    },
+    {
+        "start": 1041.52,
+        "text": "this so let's start now with"
+    },
+    {
+        "start": 1044.12,
+        "text": "understanding now that we have some of"
+    },
+    {
+        "start": 1045.439,
+        "text": "the background let's start with"
+    },
+    {
+        "start": 1046.88,
+        "text": "understanding exactly what is the"
+    },
+    {
+        "start": 1048.96,
+        "text": "fundamental building block of a neural"
+    },
+    {
+        "start": 1051.28,
+        "text": "network now that building block is"
+    },
+    {
+        "start": 1054.12,
+        "text": "called a perceptron right every single"
+    },
+    {
+        "start": 1056.96,
+        "text": "perceptor every single neural network is"
+    },
+    {
+        "start": 1058.96,
+        "text": "built up of multiple perceptrons and"
+    },
+    {
+        "start": 1061.919,
+        "text": "you're going to learn how those"
+    },
+    {
+        "start": 1063.48,
+        "text": "perceptrons number one compute"
+    },
+    {
+        "start": 1065.16,
+        "text": "information themselves and how they"
+    },
+    {
+        "start": 1066.64,
+        "text": "connect to these much larger billion"
+    },
+    {
+        "start": 1069.24,
+        "text": "parameter neural"
+    },
+    {
+        "start": 1071.2,
+        "text": "networks so the key idea of a perceptron"
+    },
+    {
+        "start": 1074.4,
+        "text": "or even simpler think of this as a"
+    },
+    {
+        "start": 1076.28,
+        "text": "single neuron right so a neural network"
+    },
+    {
+        "start": 1078.28,
+        "text": "is composed osed of many many neurons"
+    },
+    {
+        "start": 1080.72,
+        "text": "and a perceptron is just one neuron so"
+    },
+    {
+        "start": 1083.48,
+        "text": "that idea of a perceptron is actually"
+    },
+    {
+        "start": 1085.6,
+        "text": "extremely simple and I hope that by the"
+    },
+    {
+        "start": 1087.12,
+        "text": "end of today this idea and this uh"
+    },
+    {
+        "start": 1090.72,
+        "text": "processing of a perceptron becomes"
+    },
+    {
+        "start": 1092.88,
+        "text": "extremely clear to you so let's start by"
+    },
+    {
+        "start": 1095.159,
+        "text": "talking about just the forward"
+    },
+    {
+        "start": 1096.96,
+        "text": "propagation of information through a"
+    },
+    {
+        "start": 1099.28,
+        "text": "single neuron now single neurons ingest"
+    },
+    {
+        "start": 1102.799,
+        "text": "information they can actually ingest"
+    },
+    {
+        "start": 1105.08,
+        "text": "multiple pieces of information so here"
+    },
+    {
+        "start": 1107.24,
+        "text": "you can see this neuron taking has input"
+    },
+    {
+        "start": 1109.48,
+        "text": "three pieces of information X1 X2 and"
+    },
+    {
+        "start": 1112.88,
+        "text": "XM right so we Define the set of inputs"
+    },
+    {
+        "start": 1116.4,
+        "text": "called x 1 through M and each of these"
+    },
+    {
+        "start": 1119.6,
+        "text": "inputs each of these numbers is going to"
+    },
+    {
+        "start": 1121.679,
+        "text": "be elementwise multiplied by a"
+    },
+    {
+        "start": 1124.12,
+        "text": "particular weight so this is going to be"
+    },
+    {
+        "start": 1126.4,
+        "text": "denoted here by W1 through WM so this is"
+    },
+    {
+        "start": 1129.24,
+        "text": "a corresponding weight for every single"
+    },
+    {
+        "start": 1130.96,
+        "text": "input and you should think of this as"
+    },
+    {
+        "start": 1132.6,
+        "text": "really uh you know every weight being"
+    },
+    {
+        "start": 1134.96,
+        "text": "assigned to that input right the weights"
+    },
+    {
+        "start": 1137.96,
+        "text": "are part of the neuron itself now you"
+    },
+    {
+        "start": 1141.32,
+        "text": "multiply all of these inputs with their"
+    },
+    {
+        "start": 1143.32,
+        "text": "weights together and then you add them"
+    },
+    {
+        "start": 1144.88,
+        "text": "up we take this single number after that"
+    },
+    {
+        "start": 1147.559,
+        "text": "addition and you pass it through what's"
+    },
+    {
+        "start": 1149.679,
+        "text": "called a nonlinear activation function"
+    },
+    {
+        "start": 1152.12,
+        "text": "to produce your final output which here"
+    },
+    {
+        "start": 1154.039,
+        "text": "be calling"
+    },
+    {
+        "start": 1158.159,
+        "text": "y now what I just said is not entirely"
+    },
+    {
+        "start": 1161.84,
+        "text": "correct right so I missed out one"
+    },
+    {
+        "start": 1163.799,
+        "text": "critical piece of information that piece"
+    },
+    {
+        "start": 1165.52,
+        "text": "of information is that we also have what"
+    },
+    {
+        "start": 1167.559,
+        "text": "you can see here is called this bias"
+    },
+    {
+        "start": 1169.6,
+        "text": "term that bias term is actually what"
+    },
+    {
+        "start": 1172.6,
+        "text": "allows your neuron neuron to shift its"
+    },
+    {
+        "start": 1176.159,
+        "text": "activation function horizontally on that"
+    },
+    {
+        "start": 1178.679,
+        "text": "x axis if you think of it right so on"
+    },
+    {
+        "start": 1182.12,
+        "text": "the right side you can now see this"
+    },
+    {
+        "start": 1183.799,
+        "text": "diagram illustrating mathematically that"
+    },
+    {
+        "start": 1186.48,
+        "text": "single equation that I talked through"
+    },
+    {
+        "start": 1188.559,
+        "text": "kind of conceptually right now you can"
+    },
+    {
+        "start": 1190.159,
+        "text": "see it mathematically written down as"
+    },
+    {
+        "start": 1191.96,
+        "text": "one single equation and we can actually"
+    },
+    {
+        "start": 1194.28,
+        "text": "rewrite this using linear algebra using"
+    },
+    {
+        "start": 1196.96,
+        "text": "vectors and Dot products so let's do"
+    },
+    {
+        "start": 1199.28,
+        "text": "that right so now our inputs are going"
+    },
+    {
+        "start": 1200.919,
+        "text": "to be described by a capital x which is"
+    },
+    {
+        "start": 1203.96,
+        "text": "simply a vector of all of our inputs X1"
+    },
+    {
+        "start": 1206.84,
+        "text": "through XM and then our weights are"
+    },
+    {
+        "start": 1209.44,
+        "text": "going to be described by a capital W"
+    },
+    {
+        "start": 1212.12,
+        "text": "which is going to be uh W1 through WM"
+    },
+    {
+        "start": 1215.84,
+        "text": "the input is obtained by taking the dot"
+    },
+    {
+        "start": 1218.159,
+        "text": "product of X and W right that dot"
+    },
+    {
+        "start": 1221.799,
+        "text": "product does that element wise"
+    },
+    {
+        "start": 1223.08,
+        "text": "multiplication and then adds sums all of"
+    },
+    {
+        "start": 1226.0,
+        "text": "the the element wise multiplications and"
+    },
+    {
+        "start": 1228.48,
+        "text": "then here's the missing piece is that"
+    },
+    {
+        "start": 1230.36,
+        "text": "we're now going to add that bias term"
+    },
+    {
+        "start": 1232.799,
+        "text": "here we're calling the bias term"
+    },
+    {
+        "start": 1234.72,
+        "text": "w0 right and then we're going to apply"
+    },
+    {
+        "start": 1236.919,
+        "text": "the nonlinearity which here denoted as Z"
+    },
+    {
+        "start": 1239.52,
+        "text": "or G excuse me so I've mentioned this"
+    },
+    {
+        "start": 1242.84,
+        "text": "nonlinearity a few times this activation"
+    },
+    {
+        "start": 1245.039,
+        "text": "function let's dig into it a little bit"
+    },
+    {
+        "start": 1247.039,
+        "text": "more so we can understand what is"
+    },
+    {
+        "start": 1248.88,
+        "text": "actually this activation function doing"
+    },
+    {
+        "start": 1251.48,
+        "text": "well I said a couple things about it I"
+    },
+    {
+        "start": 1253.36,
+        "text": "said it's a nonlinear function right"
+    },
+    {
+        "start": 1255.679,
+        "text": "here you can see one example of an"
+    },
+    {
+        "start": 1257.96,
+        "text": "activation fun function one common uh"
+    },
+    {
+        "start": 1261.24,
+        "text": "one commonly used activation function is"
+    },
+    {
+        "start": 1263.96,
+        "text": "called the sigmoid function which you"
+    },
+    {
+        "start": 1265.72,
+        "text": "can actually see here on the bottom"
+    },
+    {
+        "start": 1267.159,
+        "text": "right hand side of the screen the"
+    },
+    {
+        "start": 1268.919,
+        "text": "sigmoid function is very commonly used"
+    },
+    {
+        "start": 1271.679,
+        "text": "because it's outputs right so it takes"
+    },
+    {
+        "start": 1274.039,
+        "text": "as input any real number the x- axxis is"
+    },
+    {
+        "start": 1276.559,
+        "text": "infinite plus or minus but on the Y AIS"
+    },
+    {
+        "start": 1280.039,
+        "text": "it basically squashes every input X into"
+    },
+    {
+        "start": 1284.4,
+        "text": "a number between Z and one so it's"
+    },
+    {
+        "start": 1286.48,
+        "text": "actually a very common choice for things"
+    },
+    {
+        "start": 1288.24,
+        "text": "like probability distributions if you"
+    },
+    {
+        "start": 1290.0,
+        "text": "want to convert your answers into"
+    },
+    {
+        "start": 1291.559,
+        "text": "probabilities or learn or teach a neuron"
+    },
+    {
+        "start": 1294.32,
+        "text": "to learn a probability"
+    },
+    {
+        "start": 1296.44,
+        "text": "distribution but in fact there are"
+    },
+    {
+        "start": 1298.52,
+        "text": "actually many different types of"
+    },
+    {
+        "start": 1299.88,
+        "text": "nonlinear activation functions that are"
+    },
+    {
+        "start": 1302.24,
+        "text": "used in neural networks and here are"
+    },
+    {
+        "start": 1303.919,
+        "text": "some common ones and and again"
+    },
+    {
+        "start": 1305.4,
+        "text": "throughout this presentation you'll see"
+    },
+    {
+        "start": 1307.4,
+        "text": "these little tensorflow icons actually"
+    },
+    {
+        "start": 1309.84,
+        "text": "throughout the entire course you'll see"
+    },
+    {
+        "start": 1311.039,
+        "text": "these tensorflow icons on the bottom"
+    },
+    {
+        "start": 1313.12,
+        "text": "which basically just allow you to uh"
+    },
+    {
+        "start": 1315.919,
+        "text": "relate some of the foundational"
+    },
+    {
+        "start": 1317.64,
+        "text": "knowledge that we're teaching ing in the"
+    },
+    {
+        "start": 1319.36,
+        "text": "lectures to some of the software labs"
+    },
+    {
+        "start": 1321.48,
+        "text": "and this might provide a good starting"
+    },
+    {
+        "start": 1323.12,
+        "text": "point for a lot of the pieces that you"
+    },
+    {
+        "start": 1324.559,
+        "text": "have to do later on in the software"
+    },
+    {
+        "start": 1326.76,
+        "text": "parts of the class so the sigmoid"
+    },
+    {
+        "start": 1329.4,
+        "text": "activation which we talked about in the"
+    },
+    {
+        "start": 1331.0,
+        "text": "last slide here it's shown on the left"
+    },
+    {
+        "start": 1332.48,
+        "text": "hand side right this is very popular"
+    },
+    {
+        "start": 1334.679,
+        "text": "because of the probability distributions"
+    },
+    {
+        "start": 1336.32,
+        "text": "right it squashes everything between"
+    },
+    {
+        "start": 1337.679,
+        "text": "zero and one but you see two other uh"
+    },
+    {
+        "start": 1340.48,
+        "text": "very common types of activation"
+    },
+    {
+        "start": 1342.64,
+        "text": "functions in the middle and the right"
+    },
+    {
+        "start": 1344.32,
+        "text": "hand side as well so the other very very"
+    },
+    {
+        "start": 1347.039,
+        "text": "common one probably the this is the one"
+    },
+    {
+        "start": 1349.08,
+        "text": "now that's the most popular activation"
+    },
+    {
+        "start": 1350.84,
+        "text": "function is now on the far right hand"
+    },
+    {
+        "start": 1352.64,
+        "text": "side it's called the relu activation"
+    },
+    {
+        "start": 1354.919,
+        "text": "function or also called the rectified"
+    },
+    {
+        "start": 1356.72,
+        "text": "linear unit so basically it's linear"
+    },
+    {
+        "start": 1359.08,
+        "text": "everywhere except there's a nonlinearity"
+    },
+    {
+        "start": 1361.279,
+        "text": "at x equals z so there's a kind of a"
+    },
+    {
+        "start": 1364.039,
+        "text": "step or a break discontinuity right so"
+    },
+    {
+        "start": 1366.96,
+        "text": "benefit of this very easy to compute it"
+    },
+    {
+        "start": 1369.44,
+        "text": "still has the nonlinearity which we kind"
+    },
+    {
+        "start": 1371.44,
+        "text": "of need and we'll talk about why we need"
+    },
+    {
+        "start": 1372.96,
+        "text": "it in one second but it's very fast"
+    },
+    {
+        "start": 1375.72,
+        "text": "right just two linear functions"
+    },
+    {
+        "start": 1377.32,
+        "text": "piecewise combined with each"
+    },
+    {
+        "start": 1379.44,
+        "text": "other okay so now let's talk about why"
+    },
+    {
+        "start": 1381.72,
+        "text": "we need a nonlinearity in the first"
+    },
+    {
+        "start": 1383.72,
+        "text": "place why why not just deal with a"
+    },
+    {
+        "start": 1386.12,
+        "text": "linear function that we pass all of"
+    },
+    {
+        "start": 1387.679,
+        "text": "these inputs through so the point of the"
+    },
+    {
+        "start": 1390.039,
+        "text": "activation function even at all why do"
+    },
+    {
+        "start": 1392.799,
+        "text": "we have this is to introduce"
+    },
+    {
+        "start": 1395.279,
+        "text": "nonlinearities in of itself so what we"
+    },
+    {
+        "start": 1398.6,
+        "text": "want to do is to allow our neural"
+    },
+    {
+        "start": 1401.2,
+        "text": "network to deal with nonlinear data"
+    },
+    {
+        "start": 1404.64,
+        "text": "right our neural networks need the"
+    },
+    {
+        "start": 1406.76,
+        "text": "ability to deal with nonlinear data"
+    },
+    {
+        "start": 1408.72,
+        "text": "because the world is extremely nonlinear"
+    },
+    {
+        "start": 1412.4,
+        "text": "right this is important because you know"
+    },
+    {
+        "start": 1414.559,
+        "text": "if you think of the real world real data"
+    },
+    {
+        "start": 1416.679,
+        "text": "sets this is just the way they are right"
+    },
+    {
+        "start": 1419.4,
+        "text": "if you look at data sets like this one"
+    },
+    {
+        "start": 1421.24,
+        "text": "green and red points right and I ask you"
+    },
+    {
+        "start": 1423.279,
+        "text": "to build a neural network that can"
+    },
+    {
+        "start": 1425.76,
+        "text": "separate the green and the red points"
+    },
+    {
+        "start": 1428.559,
+        "text": "this means that we actually need a"
+    },
+    {
+        "start": 1431.2,
+        "text": "nonlinear function to do that we cannot"
+    },
+    {
+        "start": 1432.96,
+        "text": "solve this problem with a single line"
+    },
+    {
+        "start": 1435.88,
+        "text": "right in fact if we used linear uh"
+    },
+    {
+        "start": 1439.559,
+        "text": "linear functions as your activation"
+    },
+    {
+        "start": 1441.679,
+        "text": "function no matter how big your neural"
+    },
+    {
+        "start": 1443.72,
+        "text": "network is it's still a linear function"
+    },
+    {
+        "start": 1445.919,
+        "text": "because linear functions combined with"
+    },
+    {
+        "start": 1447.36,
+        "text": "linear functions are still linear so no"
+    },
+    {
+        "start": 1449.96,
+        "text": "matter how deep or how many parameters"
+    },
+    {
+        "start": 1451.72,
+        "text": "your neural network has the best they"
+    },
+    {
+        "start": 1453.64,
+        "text": "would be able to do to separate these"
+    },
+    {
+        "start": 1455.24,
+        "text": "green and red points would look like"
+    },
+    {
+        "start": 1456.679,
+        "text": "this but adding nonlinearities allows"
+    },
+    {
+        "start": 1459.64,
+        "text": "our neural networks to be smaller by"
+    },
+    {
+        "start": 1462.48,
+        "text": "allowing them to be more expressive and"
+    },
+    {
+        "start": 1464.64,
+        "text": "capture more complexities in the data"
+    },
+    {
+        "start": 1466.919,
+        "text": "sets and this allows them to be much"
+    },
+    {
+        "start": 1468.6,
+        "text": "more powerful in the end so let's"
+    },
+    {
+        "start": 1472.12,
+        "text": "understand this with a simple example"
+    },
+    {
+        "start": 1474.0,
+        "text": "imagine I give you now this trained"
+    },
+    {
+        "start": 1475.76,
+        "text": "neural network so what does it mean"
+    },
+    {
+        "start": 1476.96,
+        "text": "trained neural network it means now I'm"
+    },
+    {
+        "start": 1478.44,
+        "text": "giving you the weights right not only"
+    },
+    {
+        "start": 1480.52,
+        "text": "the inputs but I'm going to tell you"
+    },
+    {
+        "start": 1482.279,
+        "text": "what the weights of this neural network"
+    },
+    {
+        "start": 1483.64,
+        "text": "are so here let's say the bias term w0"
+    },
+    {
+        "start": 1487.279,
+        "text": "is going to be one and our W Vector is"
+    },
+    {
+        "start": 1490.799,
+        "text": "going to be 3 and ne2 right these are"
+    },
+    {
+        "start": 1493.76,
+        "text": "just the weights of your train neural"
+    },
+    {
+        "start": 1494.96,
+        "text": "network let's worry about how we got"
+    },
+    {
+        "start": 1496.679,
+        "text": "those weights in a second but this"
+    },
+    {
+        "start": 1498.799,
+        "text": "network has two inputs X1 and X2 now if"
+    },
+    {
+        "start": 1503.36,
+        "text": "we want to get the output of this neural"
+    },
+    {
+        "start": 1505.88,
+        "text": "network all we have to do simply is to"
+    },
+    {
+        "start": 1508.52,
+        "text": "do the same story that we talked about"
+    },
+    {
+        "start": 1510.12,
+        "text": "before right it's dot"
+    },
+    {
+        "start": 1512.919,
+        "text": "product inputs with weights add the bias"
+    },
+    {
+        "start": 1517.48,
+        "text": "and apply the nonlinearity right and"
+    },
+    {
+        "start": 1519.24,
+        "text": "those are the three components that you"
+    },
+    {
+        "start": 1520.72,
+        "text": "really have to remember as part of this"
+    },
+    {
+        "start": 1522.64,
+        "text": "class right dot product uh add the bias"
+    },
+    {
+        "start": 1526.64,
+        "text": "and apply a nonlinearity that's going to"
+    },
+    {
+        "start": 1528.799,
+        "text": "be the process that keeps repeating over"
+    },
+    {
+        "start": 1530.48,
+        "text": "and over and over again for every single"
+    },
+    {
+        "start": 1532.799,
+        "text": "neuron after that happens that neuron"
+    },
+    {
+        "start": 1535.679,
+        "text": "was going to Output a single number"
+    },
+    {
+        "start": 1538.24,
+        "text": "right now let's take a look at what's"
+    },
+    {
+        "start": 1540.159,
+        "text": "inside of that nonlinearity it's simply"
+    },
+    {
+        "start": 1542.88,
+        "text": "a weighted combination of those uh of"
+    },
+    {
+        "start": 1547.399,
+        "text": "those inputs with those weights right so"
+    },
+    {
+        "start": 1549.24,
+        "text": "if we look at what's inside of G right"
+    },
+    {
+        "start": 1552.399,
+        "text": "inside of G is a weighted combination of"
+    },
+    {
+        "start": 1554.72,
+        "text": "X and"
+    },
+    {
+        "start": 1555.72,
+        "text": "W right added with a bias"
+    },
+    {
+        "start": 1558.919,
+        "text": "right that's going to produce a single"
+    },
+    {
+        "start": 1561.52,
+        "text": "number right but in reality for any"
+    },
+    {
+        "start": 1564.12,
+        "text": "input that this model could see what"
+    },
+    {
+        "start": 1566.48,
+        "text": "this really is is a two-dimensional line"
+    },
+    {
+        "start": 1568.52,
+        "text": "because we have two parameters in this"
+    },
+    {
+        "start": 1571.039,
+        "text": "model so we can actually plot that line"
+    },
+    {
+        "start": 1574.12,
+        "text": "we can see exactly how this neuron"
+    },
+    {
+        "start": 1578.0,
+        "text": "separates points on these axes between"
+    },
+    {
+        "start": 1581.32,
+        "text": "X1 and X2 right these are the two inputs"
+    },
+    {
+        "start": 1583.84,
+        "text": "of this model we can see exactly and"
+    },
+    {
+        "start": 1586.559,
+        "text": "interpret exactly what this neuron is is"
+    },
+    {
+        "start": 1588.48,
+        "text": "doing right we can visualize its entire"
+    },
+    {
+        "start": 1590.679,
+        "text": "space because we can plot the line that"
+    },
+    {
+        "start": 1593.0,
+        "text": "defines this neuron right so here we're"
+    },
+    {
+        "start": 1595.559,
+        "text": "plotting when that line equals"
+    },
+    {
+        "start": 1597.72,
+        "text": "zero and in fact if I give you if I give"
+    },
+    {
+        "start": 1601.279,
+        "text": "that neuron in fact a new data point"
+    },
+    {
+        "start": 1603.72,
+        "text": "here the new data point is X1 = -1 and"
+    },
+    {
+        "start": 1606.559,
+        "text": "X2 = 2 just an arbitrary point in this"
+    },
+    {
+        "start": 1609.2,
+        "text": "two-dimensional space we can plot that"
+    },
+    {
+        "start": 1611.32,
+        "text": "point in the two-dimensional space And"
+    },
+    {
+        "start": 1613.24,
+        "text": "depending on which side of the line it"
+    },
+    {
+        "start": 1615.0,
+        "text": "falls on it tells us you know what the"
+    },
+    {
+        "start": 1618.36,
+        "text": "what the answer is going to be what the"
+    },
+    {
+        "start": 1619.919,
+        "text": "sign of the answer is going to be and"
+    },
+    {
+        "start": 1622.0,
+        "text": "also what the answer itself is going to"
+    },
+    {
+        "start": 1623.799,
+        "text": "be right so if we follow that that"
+    },
+    {
+        "start": 1625.96,
+        "text": "equation written on the top here and"
+    },
+    {
+        "start": 1627.88,
+        "text": "plug in -1 and 2 we're going to get 1 -"
+    },
+    {
+        "start": 1631.279,
+        "text": "3 - 4 which equal"
+    },
+    {
+        "start": 1634.44,
+        "text": "-6 right and when I put that into my"
+    },
+    {
+        "start": 1637.36,
+        "text": "nonlinearity G I'm going to get a final"
+    },
+    {
+        "start": 1640.559,
+        "text": "output of"
+    },
+    {
+        "start": 1643.12,
+        "text": "0.2 right so that that don't worry about"
+    },
+    {
+        "start": 1645.64,
+        "text": "the final output that's just going to be"
+    },
+    {
+        "start": 1647.039,
+        "text": "the output for that signal function but"
+    },
+    {
+        "start": 1649.52,
+        "text": "the important point to remember here is"
+    },
+    {
+        "start": 1651.88,
+        "text": "that the sigmoid function actually"
+    },
+    {
+        "start": 1653.52,
+        "text": "divides the space into these two parts"
+    },
+    {
+        "start": 1656.799,
+        "text": "right it squashes everything between Z"
+    },
+    {
+        "start": 1659.08,
+        "text": "and one but it divides it implicitly by"
+    },
+    {
+        "start": 1662.279,
+        "text": "everything less than 0.5 and greater"
+    },
+    {
+        "start": 1665.159,
+        "text": "than 0.5 depending on if it's on if x is"
+    },
+    {
+        "start": 1668.279,
+        "text": "less than zero or greater than zero so"
+    },
+    {
+        "start": 1671.159,
+        "text": "depending on which side of the line that"
+    },
+    {
+        "start": 1673.08,
+        "text": "you fall on remember the line is when x"
+    },
+    {
+        "start": 1675.76,
+        "text": "equals z the input to the sigmoid is"
+    },
+    {
+        "start": 1677.64,
+        "text": "zero if you fall on the left side of the"
+    },
+    {
+        "start": 1680.159,
+        "text": "line your output will be less than 0.5"
+    },
+    {
+        "start": 1684.08,
+        "text": "because you're falling on the negative"
+    },
+    {
+        "start": 1685.72,
+        "text": "side of the line if your output is if"
+    },
+    {
+        "start": 1688.2,
+        "text": "your input is on the right side of the"
+    },
+    {
+        "start": 1689.88,
+        "text": "line now your output is going to be"
+    },
+    {
+        "start": 1692.84,
+        "text": "greater than"
+    },
+    {
+        "start": 1694.279,
+        "text": "0.5 right so here we can actually"
+    },
+    {
+        "start": 1696.679,
+        "text": "visualize this space this is called the"
+    },
+    {
+        "start": 1698.72,
+        "text": "feature space of a neural network we can"
+    },
+    {
+        "start": 1701.2,
+        "text": "visualize it in its completion right we"
+    },
+    {
+        "start": 1704.08,
+        "text": "can totally visualize and interpret this"
+    },
+    {
+        "start": 1706.08,
+        "text": "neural network we can understand exactly"
+    },
+    {
+        "start": 1708.24,
+        "text": "what it's going to do for any input that"
+    },
+    {
+        "start": 1710.36,
+        "text": "it sees right but of course this is a"
+    },
+    {
+        "start": 1712.88,
+        "text": "very simple neuron right it's not a"
+    },
+    {
+        "start": 1714.6,
+        "text": "neural network it's just one neuron and"
+    },
+    {
+        "start": 1716.84,
+        "text": "even more than that it's even a very"
+    },
+    {
+        "start": 1718.519,
+        "text": "simple neuron it only has two inputs"
+    },
+    {
+        "start": 1721.08,
+        "text": "right so in reality the types of neuron"
+    },
+    {
+        "start": 1724.24,
+        "text": "neurons that you're going to be dealing"
+    },
+    {
+        "start": 1725.64,
+        "text": "with in this course are going to be"
+    },
+    {
+        "start": 1727.64,
+        "text": "neurons and neural networks with"
+    },
+    {
+        "start": 1730.32,
+        "text": "millions or even billions of these"
+    },
+    {
+        "start": 1732.84,
+        "text": "parameters right of these inputs right"
+    },
+    {
+        "start": 1735.2,
+        "text": "so here we only have two weights W1 W2"
+    },
+    {
+        "start": 1738.24,
+        "text": "but today's neural networks have"
+    },
+    {
+        "start": 1739.84,
+        "text": "billions of these parameters so drawing"
+    },
+    {
+        "start": 1742.679,
+        "text": "these types of plots that you see here"
+    },
+    {
+        "start": 1745.6,
+        "text": "obviously becomes a lot more challenging"
+    },
+    {
+        "start": 1747.679,
+        "text": "it's actually not"
+    },
+    {
+        "start": 1749.919,
+        "text": "possible but now that we have some of"
+    },
+    {
+        "start": 1751.96,
+        "text": "the intuition behind a perceptron let's"
+    },
+    {
+        "start": 1754.6,
+        "text": "start now by building neural networks"
+    },
+    {
+        "start": 1757.559,
+        "text": "and seeing how all of this comes"
+    },
+    {
+        "start": 1759.44,
+        "text": "together so let's revisit that previous"
+    },
+    {
+        "start": 1761.679,
+        "text": "diagram of a perceptron now again if"
+    },
+    {
+        "start": 1764.6,
+        "text": "there's only one thing to take away from"
+    },
+    {
+        "start": 1766.799,
+        "text": "this lecture right now it's to remember"
+    },
+    {
+        "start": 1769.799,
+        "text": "how a perceptron works that equation of"
+    },
+    {
+        "start": 1772.279,
+        "text": "a perceptron is extremely important for"
+    },
+    {
+        "start": 1774.32,
+        "text": "every single class that comes after"
+    },
+    {
+        "start": 1775.799,
+        "text": "today and there's only three steps it's"
+    },
+    {
+        "start": 1778.32,
+        "text": "dot product with the inputs add a bias"
+    },
+    {
+        "start": 1781.6,
+        "text": "and apply your"
+    },
+    {
+        "start": 1783.24,
+        "text": "nonlinearity let's simplify the diagram"
+    },
+    {
+        "start": 1785.519,
+        "text": "a little bit I'll remove the weight"
+    },
+    {
+        "start": 1787.72,
+        "text": "labels from this picture and now you can"
+    },
+    {
+        "start": 1790.32,
+        "text": "assume that if I show a line every"
+    },
+    {
+        "start": 1792.72,
+        "text": "single line has an Associated weight"
+    },
+    {
+        "start": 1795.36,
+        "text": "that comes with that line right I'll"
+    },
+    {
+        "start": 1797.88,
+        "text": "also also remove the bias term for"
+    },
+    {
+        "start": 1799.559,
+        "text": "Simplicity assume that every neuron has"
+    },
+    {
+        "start": 1801.799,
+        "text": "that bias term I don't need to show it"
+    },
+    {
+        "start": 1804.159,
+        "text": "and now note that the result here now"
+    },
+    {
+        "start": 1807.279,
+        "text": "calling it Z which is just the uh dot"
+    },
+    {
+        "start": 1810.44,
+        "text": "product plus bias before the"
+    },
+    {
+        "start": 1813.0,
+        "text": "nonlinearity is the output is going to"
+    },
+    {
+        "start": 1815.88,
+        "text": "be linear first of all it's just a it's"
+    },
+    {
+        "start": 1817.64,
+        "text": "just a weighted sum of all those pieces"
+    },
+    {
+        "start": 1819.48,
+        "text": "we have not applied the nonlinearity yet"
+    },
+    {
+        "start": 1821.76,
+        "text": "but our final output is just going to be"
+    },
+    {
+        "start": 1824.48,
+        "text": "G of Z it's the activation function or"
+    },
+    {
+        "start": 1827.159,
+        "text": "nonlinear activ function applied to"
+    },
+    {
+        "start": 1830.799,
+        "text": "Z now if we want to step this up a"
+    },
+    {
+        "start": 1833.799,
+        "text": "little bit more and say what if we had a"
+    },
+    {
+        "start": 1837.72,
+        "text": "multi-output function now we don't just"
+    },
+    {
+        "start": 1839.88,
+        "text": "have one output but let's say we want to"
+    },
+    {
+        "start": 1841.48,
+        "text": "have two outputs well now we can just"
+    },
+    {
+        "start": 1843.48,
+        "text": "have two neurons in this network right"
+    },
+    {
+        "start": 1846.84,
+        "text": "every neuron say sees all of the inputs"
+    },
+    {
+        "start": 1849.76,
+        "text": "that came before it but now you see the"
+    },
+    {
+        "start": 1852.2,
+        "text": "top neuron is going to be predicting an"
+    },
+    {
+        "start": 1854.76,
+        "text": "answer and the bottom neuron will"
+    },
+    {
+        "start": 1856.12,
+        "text": "predict its own answer now importantly"
+    },
+    {
+        "start": 1858.159,
+        "text": "one thing you should really notice here"
+    },
+    {
+        "start": 1859.519,
+        "text": "is that each neuron has its own weights"
+    },
+    {
+        "start": 1863.519,
+        "text": "right each neuron has its own lines that"
+    },
+    {
+        "start": 1865.639,
+        "text": "are coming into just that neuron right"
+    },
+    {
+        "start": 1867.96,
+        "text": "so they're acting independently but they"
+    },
+    {
+        "start": 1870.08,
+        "text": "can later on communicate if you have"
+    },
+    {
+        "start": 1872.039,
+        "text": "another"
+    },
+    {
+        "start": 1873.24,
+        "text": "layer"
+    },
+    {
+        "start": 1876.24,
+        "text": "right so let's start now by initializing"
+    },
+    {
+        "start": 1880.32,
+        "text": "this uh this process a bit further and"
+    },
+    {
+        "start": 1883.639,
+        "text": "thinking about it more programmatically"
+    },
+    {
+        "start": 1885.679,
+        "text": "right what if we wanted to program this"
+    },
+    {
+        "start": 1887.919,
+        "text": "this neural network ourselves from"
+    },
+    {
+        "start": 1890.2,
+        "text": "scratch right remember that equation I"
+    },
+    {
+        "start": 1891.96,
+        "text": "told you it didn't sound very complex"
+    },
+    {
+        "start": 1893.639,
+        "text": "it's take a DOT product add a bias which"
+    },
+    {
+        "start": 1896.32,
+        "text": "is a single number and apply"
+    },
+    {
+        "start": 1898.08,
+        "text": "nonlinearity let's see how we would"
+    },
+    {
+        "start": 1899.6,
+        "text": "actually Implement something like that"
+    },
+    {
+        "start": 1901.44,
+        "text": "so to to define the layer right we're"
+    },
+    {
+        "start": 1904.12,
+        "text": "now going to call this a layer uh which"
+    },
+    {
+        "start": 1906.639,
+        "text": "is a collection of neurons right we have"
+    },
+    {
+        "start": 1910.799,
+        "text": "to first Define how that information"
+    },
+    {
+        "start": 1913.36,
+        "text": "propagates through the network so we can"
+    },
+    {
+        "start": 1915.639,
+        "text": "do that by creating a call function here"
+    },
+    {
+        "start": 1918.0,
+        "text": "first we're going to actually Define the"
+    },
+    {
+        "start": 1919.76,
+        "text": "weights for that Network right so"
+    },
+    {
+        "start": 1922.159,
+        "text": "remember every Network every neuron I"
+    },
+    {
+        "start": 1924.519,
+        "text": "should say every neuron has weights and"
+    },
+    {
+        "start": 1926.679,
+        "text": "a bias right so let's define those first"
+    },
+    {
+        "start": 1929.84,
+        "text": "we're going to create the call function"
+    },
+    {
+        "start": 1931.799,
+        "text": "to actually see how we can pass"
+    },
+    {
+        "start": 1935.12,
+        "text": "information through that layer right so"
+    },
+    {
+        "start": 1938.2,
+        "text": "this is going to take us input and"
+    },
+    {
+        "start": 1939.76,
+        "text": "inputs right this is like what we"
+    },
+    {
+        "start": 1941.639,
+        "text": "previously called X and it's the same"
+    },
+    {
+        "start": 1944.679,
+        "text": "story that we've been seeing this whole"
+    },
+    {
+        "start": 1946.44,
+        "text": "class right we're going to Matrix"
+    },
+    {
+        "start": 1948.76,
+        "text": "multiply or take a DOT product of our"
+    },
+    {
+        "start": 1950.679,
+        "text": "inputs with our"
+    },
+    {
+        "start": 1952.159,
+        "text": "weights we're going to add a bias and"
+    },
+    {
+        "start": 1955.279,
+        "text": "then we're going to apply a nonlinearity"
+    },
+    {
+        "start": 1957.639,
+        "text": "it's really that simple right we've now"
+    },
+    {
+        "start": 1959.919,
+        "text": "created a single layer neural"
+    },
+    {
+        "start": 1963.639,
+        "text": "network right so this this line in"
+    },
+    {
+        "start": 1966.559,
+        "text": "particular this is the part that allows"
+    },
+    {
+        "start": 1968.279,
+        "text": "us to"
+    },
+    {
+        "start": 1969.519,
+        "text": "be a powerful neural network maintaining"
+    },
+    {
+        "start": 1972.559,
+        "text": "that"
+    },
+    {
+        "start": 1973.559,
+        "text": "nonlinearity and the important thing"
+    },
+    {
+        "start": 1976.12,
+        "text": "here is to note that"
+    },
+    {
+        "start": 1979.0,
+        "text": "modern deep learning toolboxes and"
+    },
+    {
+        "start": 1981.24,
+        "text": "libraries already Implement a lot of"
+    },
+    {
+        "start": 1983.36,
+        "text": "these for you right so it's important"
+    },
+    {
+        "start": 1985.2,
+        "text": "for you to understand the foundations"
+    },
+    {
+        "start": 1987.32,
+        "text": "but in practice all of that layer"
+    },
+    {
+        "start": 1990.0,
+        "text": "architecture and all that layer logic is"
+    },
+    {
+        "start": 1992.639,
+        "text": "actually implemented in tools like"
+    },
+    {
+        "start": 1994.799,
+        "text": "tensorflow and P torch through a dense"
+    },
+    {
+        "start": 1997.32,
+        "text": "layer right so here you can see an"
+    },
+    {
+        "start": 1998.799,
+        "text": "example of calling or creating"
+    },
+    {
+        "start": 2002.0,
+        "text": "initializing a dense layer with two"
+    },
+    {
+        "start": 2005.84,
+        "text": "neurons right allowing it to feed in an"
+    },
+    {
+        "start": 2008.96,
+        "text": "arbitrary set of inputs here we're"
+    },
+    {
+        "start": 2010.639,
+        "text": "seeing these two neurons in a layer"
+    },
+    {
+        "start": 2013.12,
+        "text": "being fed three inputs right and in code"
+    },
+    {
+        "start": 2016.32,
+        "text": "it's only reduced down to this one line"
+    },
+    {
+        "start": 2018.72,
+        "text": "of tensorflow code making it extremely"
+    },
+    {
+        "start": 2020.679,
+        "text": "easy and convenient for us to use these"
+    },
+    {
+        "start": 2023.559,
+        "text": "functions and call them so now let's"
+    },
+    {
+        "start": 2026.159,
+        "text": "look at our single layered neural"
+    },
+    {
+        "start": 2028.08,
+        "text": "network this is where we have now one"
+    },
+    {
+        "start": 2030.519,
+        "text": "layer between our input and our outputs"
+    },
+    {
+        "start": 2033.639,
+        "text": "right so we're slowly and progressively"
+    },
+    {
+        "start": 2036.039,
+        "text": "increasing the complexity of our neural"
+    },
+    {
+        "start": 2038.2,
+        "text": "network so that we can build up all of"
+    },
+    {
+        "start": 2039.84,
+        "text": "these building blocks right this layer"
+    },
+    {
+        "start": 2043.48,
+        "text": "in the middle is called a hidden layer"
+    },
+    {
+        "start": 2046.44,
+        "text": "right obviously because you don't"
+    },
+    {
+        "start": 2047.679,
+        "text": "directly observe it you don't directly"
+    },
+    {
+        "start": 2049.24,
+        "text": "supervise it right you do observe the"
+    },
+    {
+        "start": 2051.839,
+        "text": "two input and output layers but your"
+    },
+    {
+        "start": 2053.599,
+        "text": "hidden layer is just kind of a uh a"
+    },
+    {
+        "start": 2056.159,
+        "text": "neuron neuron layer that you don't"
+    },
+    {
+        "start": 2058.599,
+        "text": "directly observe right it just gives"
+    },
+    {
+        "start": 2060.28,
+        "text": "your network more capacity more learning"
+    },
+    {
+        "start": 2063.72,
+        "text": "complexity and since we now have a"
+    },
+    {
+        "start": 2065.599,
+        "text": "transformation function from inputs to"
+    },
+    {
+        "start": 2068.0,
+        "text": "Hidden layers and hidden layers to"
+    },
+    {
+        "start": 2070.159,
+        "text": "Output we now have a two- layered neural"
+    },
+    {
+        "start": 2073.24,
+        "text": "network right which means that we also"
+    },
+    {
+        "start": 2076.2,
+        "text": "have two weight matrices right we don't"
+    },
+    {
+        "start": 2078.839,
+        "text": "have just the W1 which we previously had"
+    },
+    {
+        "start": 2081.72,
+        "text": "to create this hidden layer but now we"
+    },
+    {
+        "start": 2083.28,
+        "text": "also have W2 which does the"
+    },
+    {
+        "start": 2085.04,
+        "text": "transformation from hidden layer to"
+    },
+    {
+        "start": 2086.44,
+        "text": "Output layer yes what happens"
+    },
+    {
+        "start": 2088.96,
+        "text": "nonlinearity in Hidden you have just"
+    },
+    {
+        "start": 2091.04,
+        "text": "linear so there's no it's not is it a"
+    },
+    {
+        "start": 2093.52,
+        "text": "perceptron or not yes so every hidden"
+    },
+    {
+        "start": 2096.32,
+        "text": "layer also has an nonlinearity"
+    },
+    {
+        "start": 2098.64,
+        "text": "accompanied with it right and that's a"
+    },
+    {
+        "start": 2100.4,
+        "text": "very important point because if you"
+    },
+    {
+        "start": 2101.72,
+        "text": "don't have that perceptron then it's"
+    },
+    {
+        "start": 2103.56,
+        "text": "just a very large linear function"
+    },
+    {
+        "start": 2105.68,
+        "text": "followed by a final nonlinearity at the"
+    },
+    {
+        "start": 2107.64,
+        "text": "very end right so you need that"
+    },
+    {
+        "start": 2109.8,
+        "text": "cascading and uh you know overlapping"
+    },
+    {
+        "start": 2113.24,
+        "text": "application of nonlinearities that occur"
+    },
+    {
+        "start": 2115.839,
+        "text": "throughout the"
+    },
+    {
+        "start": 2117.599,
+        "text": "network"
+    },
+    {
+        "start": 2119.56,
+        "text": "awesome okay so now let's zoom in look"
+    },
+    {
+        "start": 2122.88,
+        "text": "at a single unit in the hidden layer"
+    },
+    {
+        "start": 2125.28,
+        "text": "take this one for example let's call it"
+    },
+    {
+        "start": 2127.079,
+        "text": "Z2 right it's the second neuron in the"
+    },
+    {
+        "start": 2129.4,
+        "text": "first layer right it's the same"
+    },
+    {
+        "start": 2131.72,
+        "text": "perception that we saw before we compute"
+    },
+    {
+        "start": 2134.2,
+        "text": "its answer by taking a DOT product of"
+    },
+    {
+        "start": 2136.599,
+        "text": "its weights with its inputs adding a"
+    },
+    {
+        "start": 2139.56,
+        "text": "bias and then applying a nonlinearity if"
+    },
+    {
+        "start": 2142.32,
+        "text": "we took a different hidden nodee like Z3"
+    },
+    {
+        "start": 2145.2,
+        "text": "the one right below it we would compute"
+    },
+    {
+        "start": 2147.48,
+        "text": "its answer exactly the same way that we"
+    },
+    {
+        "start": 2149.119,
+        "text": "computed Z2 except its weights would be"
+    },
+    {
+        "start": 2151.76,
+        "text": "different than the weights of Z2"
+    },
+    {
+        "start": 2153.24,
+        "text": "everything else stays exactly the same"
+    },
+    {
+        "start": 2154.839,
+        "text": "it sees the same inputs but of course"
+    },
+    {
+        "start": 2157.2,
+        "text": "you know I'm not going to actually show"
+    },
+    {
+        "start": 2158.599,
+        "text": "Z3 in this picture and now this picture"
+    },
+    {
+        "start": 2161.2,
+        "text": "is getting a little bit messy so let's"
+    },
+    {
+        "start": 2162.72,
+        "text": "clean things up a little bit more I'm"
+    },
+    {
+        "start": 2164.119,
+        "text": "going to remove all the lines now and"
+    },
+    {
+        "start": 2165.92,
+        "text": "replace them just with these these boxes"
+    },
+    {
+        "start": 2168.48,
+        "text": "these symbols that will denote what we"
+    },
+    {
+        "start": 2171.079,
+        "text": "call a fully connected layer right so"
+    },
+    {
+        "start": 2173.16,
+        "text": "these layers now denote that everything"
+    },
+    {
+        "start": 2175.359,
+        "text": "in our input is connected to everything"
+    },
+    {
+        "start": 2176.92,
+        "text": "in our output and the transformation is"
+    },
+    {
+        "start": 2179.0,
+        "text": "exactly as we saw before dot product"
+    },
+    {
+        "start": 2181.28,
+        "text": "bias and"
+    },
+    {
+        "start": 2184.599,
+        "text": "nonlinearity and again in code to do"
+    },
+    {
+        "start": 2187.24,
+        "text": "this is extremely straightforward with"
+    },
+    {
+        "start": 2189.0,
+        "text": "the foundations that we've built up from"
+    },
+    {
+        "start": 2190.76,
+        "text": "the beginning of the class we can now"
+    },
+    {
+        "start": 2192.8,
+        "text": "just Define two of these dense layers"
+    },
+    {
+        "start": 2195.4,
+        "text": "right our hidden layer on line one with"
+    },
+    {
+        "start": 2197.68,
+        "text": "n hidden units and then our output layer"
+    },
+    {
+        "start": 2200.839,
+        "text": "with two hidden output units does that"
+    },
+    {
+        "start": 2203.359,
+        "text": "mean the nonlinearity function must be"
+    },
+    {
+        "start": 2205.079,
+        "text": "the same between layers nonlinearity"
+    },
+    {
+        "start": 2207.599,
+        "text": "function does not need to be the same"
+    },
+    {
+        "start": 2208.96,
+        "text": "through through each layer often times"
+    },
+    {
+        "start": 2211.24,
+        "text": "it is because of convenience there's"
+    },
+    {
+        "start": 2214.64,
+        "text": "there are some cases where you would"
+    },
+    {
+        "start": 2216.079,
+        "text": "want it to be different as well"
+    },
+    {
+        "start": 2218.0,
+        "text": "especially in lecture two you're going"
+    },
+    {
+        "start": 2220.079,
+        "text": "to see nonlinearities be different even"
+    },
+    {
+        "start": 2222.359,
+        "text": "within the same layer um let alone"
+    },
+    {
+        "start": 2225.2,
+        "text": "different layers but uh unless for a"
+    },
+    {
+        "start": 2229.2,
+        "text": "particular reason generally convention"
+    },
+    {
+        "start": 2230.92,
+        "text": "is there's no need to keep them"
+    },
+    {
+        "start": 2234.04,
+        "text": "differently now let's keep expanding our"
+    },
+    {
+        "start": 2237.2,
+        "text": "knowledge a little bit more if we now"
+    },
+    {
+        "start": 2238.599,
+        "text": "want to make a deep neural network not"
+    },
+    {
+        "start": 2240.48,
+        "text": "just a neural network like we saw in the"
+    },
+    {
+        "start": 2242.64,
+        "text": "previous side now it's deep all that"
+    },
+    {
+        "start": 2244.28,
+        "text": "means is that we're now going to stack"
+    },
+    {
+        "start": 2246.359,
+        "text": "these layers on top of each other one by"
+    },
+    {
+        "start": 2248.319,
+        "text": "one more and more creating a"
+    },
+    {
+        "start": 2250.56,
+        "text": "hierarchical model right the ones where"
+    },
+    {
+        "start": 2253.2,
+        "text": "the final output is now going to be"
+    },
+    {
+        "start": 2255.52,
+        "text": "computed by going deeper and deeper and"
+    },
+    {
+        "start": 2257.52,
+        "text": "deeper into the neural network and again"
+    },
+    {
+        "start": 2261.28,
+        "text": "doing this in code again follows the"
+    },
+    {
+        "start": 2263.56,
+        "text": "exact same story as before just"
+    },
+    {
+        "start": 2265.24,
+        "text": "cascading these tensorflow layers on top"
+    },
+    {
+        "start": 2268.359,
+        "text": "of each other and just going deeper into"
+    },
+    {
+        "start": 2270.68,
+        "text": "the"
+    },
+    {
+        "start": 2272.4,
+        "text": "network okay so now this is great"
+    },
+    {
+        "start": 2275.0,
+        "text": "because now we have at least a solid"
+    },
+    {
+        "start": 2276.96,
+        "text": "foundational understanding of how to not"
+    },
+    {
+        "start": 2279.28,
+        "text": "only Define a single neuron but how to"
+    },
+    {
+        "start": 2281.319,
+        "text": "define an entire neural network and you"
+    },
+    {
+        "start": 2283.0,
+        "text": "should be able to actually explain at"
+    },
+    {
+        "start": 2284.76,
+        "text": "this point or understand how information"
+    },
+    {
+        "start": 2287.4,
+        "text": "goes from input through an entire neural"
+    },
+    {
+        "start": 2290.68,
+        "text": "network to compute an output so now"
+    },
+    {
+        "start": 2293.68,
+        "text": "let's look at how we can apply these"
+    },
+    {
+        "start": 2295.44,
+        "text": "neural networks to solve a very real"
+    },
+    {
+        "start": 2298.2,
+        "text": "problem that uh I'm sure all of you care"
+    },
+    {
+        "start": 2300.52,
+        "text": "about so here's a problem on how we want"
+    },
+    {
+        "start": 2302.839,
+        "text": "to build an AI system to learn to answer"
+    },
+    {
+        "start": 2305.24,
+        "text": "the following question which is will I"
+    },
+    {
+        "start": 2307.92,
+        "text": "pass this class right I'm sure all of"
+    },
+    {
+        "start": 2310.079,
+        "text": "you are really worried about this"
+    },
+    {
+        "start": 2312.52,
+        "text": "question um so to do this let's start"
+    },
+    {
+        "start": 2315.359,
+        "text": "with a simple input feature model the"
+    },
+    {
+        "start": 2318.28,
+        "text": "feature the two features that let's"
+    },
+    {
+        "start": 2320.48,
+        "text": "concern ourselves with are going to be"
+    },
+    {
+        "start": 2322.24,
+        "text": "number one how many lectures you attend"
+    },
+    {
+        "start": 2325.56,
+        "text": "and number two how many hours you spend"
+    },
+    {
+        "start": 2329.2,
+        "text": "on your final"
+    },
+    {
+        "start": 2330.599,
+        "text": "project so let's look at some of the"
+    },
+    {
+        "start": 2333.599,
+        "text": "past years of this class right we can"
+    },
+    {
+        "start": 2335.64,
+        "text": "actually observe how different people"
+    },
+    {
+        "start": 2338.48,
+        "text": "have uh lived in this space right"
+    },
+    {
+        "start": 2341.64,
+        "text": "between how many lectures and how much"
+    },
+    {
+        "start": 2343.44,
+        "text": "time You' spent on your final project"
+    },
+    {
+        "start": 2345.319,
+        "text": "and you can actually see every point is"
+    },
+    {
+        "start": 2347.2,
+        "text": "a person the color of that point is"
+    },
+    {
+        "start": 2349.599,
+        "text": "going to be if they passed or failed the"
+    },
+    {
+        "start": 2351.2,
+        "text": "class and you can see and visualize kind"
+    },
+    {
+        "start": 2353.76,
+        "text": "of this V this feature space if you will"
+    },
+    {
+        "start": 2356.64,
+        "text": "that we talked about before and then we"
+    },
+    {
+        "start": 2358.4,
+        "text": "have you you fall right here you're the"
+    },
+    {
+        "start": 2360.839,
+        "text": "point"
+    },
+    {
+        "start": 2361.88,
+        "text": "45 uh right in between the the this uh"
+    },
+    {
+        "start": 2365.92,
+        "text": "feature space you've attended four"
+    },
+    {
+        "start": 2368.119,
+        "text": "lectures and you will spend 5 hours on"
+    },
+    {
+        "start": 2370.04,
+        "text": "the final project and you want to build"
+    },
+    {
+        "start": 2372.0,
+        "text": "a neural network to determine given"
+    },
+    {
+        "start": 2374.68,
+        "text": "everyone else in the class right that"
+    },
+    {
+        "start": 2376.88,
+        "text": "I've seen from all of the previous years"
+    },
+    {
+        "start": 2379.2,
+        "text": "you want to help you want to have your"
+    },
+    {
+        "start": 2381.04,
+        "text": "neural network help you to understand"
+    },
+    {
+        "start": 2383.599,
+        "text": "what is your likelihood that you will"
+    },
+    {
+        "start": 2386.24,
+        "text": "pass or fail this class so let's do it"
+    },
+    {
+        "start": 2389.119,
+        "text": "we now have all of the building blocks"
+    },
+    {
+        "start": 2390.68,
+        "text": "to solve this problem using a neural"
+    },
+    {
+        "start": 2392.28,
+        "text": "network let's do it so we have two"
+    },
+    {
+        "start": 2394.319,
+        "text": "inputs those inputs are the number of"
+    },
+    {
+        "start": 2396.4,
+        "text": "lectures you attend and number of hours"
+    },
+    {
+        "start": 2398.44,
+        "text": "you spend on your final project it's"
+    },
+    {
+        "start": 2400.599,
+        "text": "four and five we can pass those two"
+    },
+    {
+        "start": 2402.16,
+        "text": "inputs to our two uh X1 and X2 variables"
+    },
+    {
+        "start": 2407.04,
+        "text": "these are fed into this single layered"
+    },
+    {
+        "start": 2410.04,
+        "text": "single hidden layered neural network it"
+    },
+    {
+        "start": 2412.96,
+        "text": "has three hidden units in the middle and"
+    },
+    {
+        "start": 2415.319,
+        "text": "we can see that the final predicted"
+    },
+    {
+        "start": 2417.04,
+        "text": "output probability for you to pass this"
+    },
+    {
+        "start": 2419.2,
+        "text": "class is 0.1 or 10% right so very Bleak"
+    },
+    {
+        "start": 2423.2,
+        "text": "outcome it's not a good outcome um the"
+    },
+    {
+        "start": 2427.04,
+        "text": "actual ual probability is one right so"
+    },
+    {
+        "start": 2430.8,
+        "text": "attending four out of the five lectures"
+    },
+    {
+        "start": 2432.359,
+        "text": "and spending 5 hours in your final"
+    },
+    {
+        "start": 2433.92,
+        "text": "project you actually lived in a part of"
+    },
+    {
+        "start": 2435.52,
+        "text": "the feature space which was actually"
+    },
+    {
+        "start": 2436.92,
+        "text": "very positive right it looked like you"
+    },
+    {
+        "start": 2438.24,
+        "text": "were going to pass the class so what"
+    },
+    {
+        "start": 2439.8,
+        "text": "happened here anyone have any ideas so"
+    },
+    {
+        "start": 2441.92,
+        "text": "why did the neural network get this so"
+    },
+    {
+        "start": 2443.68,
+        "text": "terribly wrong right it's not trained"
+    },
+    {
+        "start": 2446.92,
+        "text": "exactly so this neural network is not"
+    },
+    {
+        "start": 2448.44,
+        "text": "trained we haven't shown any of that"
+    },
+    {
+        "start": 2450.76,
+        "text": "data the green and red data right so you"
+    },
+    {
+        "start": 2453.72,
+        "text": "should really think of neural networks"
+    },
+    {
+        "start": 2455.76,
+        "text": "like babies right before they see data"
+    },
+    {
+        "start": 2458.72,
+        "text": "they haven't learned anything there's no"
+    },
+    {
+        "start": 2460.96,
+        "text": "expectation that we should have for them"
+    },
+    {
+        "start": 2462.92,
+        "text": "to be able to solve any of these types"
+    },
+    {
+        "start": 2464.359,
+        "text": "of problems before we teach them"
+    },
+    {
+        "start": 2465.96,
+        "text": "something about the world so let's teach"
+    },
+    {
+        "start": 2468.24,
+        "text": "this neural network something about uh"
+    },
+    {
+        "start": 2470.44,
+        "text": "the problem first right and to train it"
+    },
+    {
+        "start": 2472.599,
+        "text": "we first need to tell our neural network"
+    },
+    {
+        "start": 2475.92,
+        "text": "when it's making bad decisions right so"
+    },
+    {
+        "start": 2478.359,
+        "text": "we need to teach it right really train"
+    },
+    {
+        "start": 2480.56,
+        "text": "it to learn exactly like how we as"
+    },
+    {
+        "start": 2482.92,
+        "text": "humans learn in some ways right so we"
+    },
+    {
+        "start": 2484.96,
+        "text": "have to inform the neural network when"
+    },
+    {
+        "start": 2486.96,
+        "text": "it gets the answer incorrect so that it"
+    },
+    {
+        "start": 2489.16,
+        "text": "can learn how to get the answer correct"
+    },
+    {
+        "start": 2492.28,
+        "text": "right so the closer the answer is to the"
+    },
+    {
+        "start": 2495.359,
+        "text": "ground truth so right so for example the"
+    },
+    {
+        "start": 2497.76,
+        "text": "actual value for you passing this class"
+    },
+    {
+        "start": 2500.04,
+        "text": "was probability one 100% but it"
+    },
+    {
+        "start": 2502.88,
+        "text": "predicted a probability of"
+    },
+    {
+        "start": 2504.76,
+        "text": "0.1 we compute what's called a loss"
+    },
+    {
+        "start": 2507.76,
+        "text": "right so the closer these two things are"
+    },
+    {
+        "start": 2509.72,
+        "text": "together the smaller your loss should be"
+    },
+    {
+        "start": 2512.319,
+        "text": "and the and the more accurate your model"
+    },
+    {
+        "start": 2514.359,
+        "text": "should"
+    },
+    {
+        "start": 2515.76,
+        "text": "be so let's assume that we have data not"
+    },
+    {
+        "start": 2518.76,
+        "text": "just from one student but now we have"
+    },
+    {
+        "start": 2521.119,
+        "text": "data from many students we many students"
+    },
+    {
+        "start": 2523.28,
+        "text": "have taken this class before and we can"
+    },
+    {
+        "start": 2524.64,
+        "text": "plug all of them into the neural network"
+    },
+    {
+        "start": 2526.119,
+        "text": "and show them all to this to this system"
+    },
+    {
+        "start": 2528.72,
+        "text": "now we care not only about how the"
+    },
+    {
+        "start": 2530.76,
+        "text": "neural network did on just this one"
+    },
+    {
+        "start": 2532.68,
+        "text": "prediction but we care about how it"
+    },
+    {
+        "start": 2534.76,
+        "text": "predicted on all of these different"
+    },
+    {
+        "start": 2536.72,
+        "text": "people that the neural network has shown"
+    },
+    {
+        "start": 2538.839,
+        "text": "in the past as well during this training"
+    },
+    {
+        "start": 2541.2,
+        "text": "and learning process so when training"
+    },
+    {
+        "start": 2543.559,
+        "text": "the neural network we want to find a"
+    },
+    {
+        "start": 2545.119,
+        "text": "network that minimizes the empirical"
+    },
+    {
+        "start": 2549.04,
+        "text": "loss between our predictions and those"
+    },
+    {
+        "start": 2552.16,
+        "text": "ground truth outputs and we're going to"
+    },
+    {
+        "start": 2553.68,
+        "text": "do this on average across all of the"
+    },
+    {
+        "start": 2556.359,
+        "text": "different inputs that the that the model"
+    },
+    {
+        "start": 2559.48,
+        "text": "has"
+    },
+    {
+        "start": 2560.48,
+        "text": "seen if we look at this problem of"
+    },
+    {
+        "start": 2562.88,
+        "text": "binary"
+    },
+    {
+        "start": 2563.92,
+        "text": "classification right between yeses and"
+    },
+    {
+        "start": 2566.68,
+        "text": "NOS right will I pass the class or will"
+    },
+    {
+        "start": 2568.96,
+        "text": "I not pass the class it's a zero or one"
+    },
+    {
+        "start": 2572.16,
+        "text": "probability and we can use what is"
+    },
+    {
+        "start": 2574.079,
+        "text": "called the softmax function or the"
+    },
+    {
+        "start": 2575.96,
+        "text": "softmax cross entry function to be able"
+    },
+    {
+        "start": 2578.68,
+        "text": "to inform if this network is getting the"
+    },
+    {
+        "start": 2581.76,
+        "text": "answer correct or incorrect right the"
+    },
+    {
+        "start": 2584.079,
+        "text": "softmax cross or the cross entropy"
+    },
+    {
+        "start": 2585.96,
+        "text": "function think of this as a as an"
+    },
+    {
+        "start": 2587.76,
+        "text": "objective function it's a loss function"
+    },
+    {
+        "start": 2590.0,
+        "text": "that tells our neural network how far"
+    },
+    {
+        "start": 2592.64,
+        "text": "away these two probability distributions"
+    },
+    {
+        "start": 2594.68,
+        "text": "are right so the output is a probability"
+    },
+    {
+        "start": 2597.2,
+        "text": "distribution we're trying to determine"
+    },
+    {
+        "start": 2599.079,
+        "text": "how bad of an answer the neural network"
+    },
+    {
+        "start": 2601.96,
+        "text": "is predicting so that we can give it"
+    },
+    {
+        "start": 2603.48,
+        "text": "feedback to get a better"
+    },
+    {
+        "start": 2605.319,
+        "text": "answer now let's suppose in instead of"
+    },
+    {
+        "start": 2607.52,
+        "text": "training a or predicting a binary output"
+    },
+    {
+        "start": 2610.559,
+        "text": "we want to predict a real valued output"
+    },
+    {
+        "start": 2613.48,
+        "text": "like a like any number it can take any"
+    },
+    {
+        "start": 2615.28,
+        "text": "number plus or minus infinity so for"
+    },
+    {
+        "start": 2617.76,
+        "text": "example if you wanted to predict the uh"
+    },
+    {
+        "start": 2620.24,
+        "text": "grade that you get in a class right"
+    },
+    {
+        "start": 2623.28,
+        "text": "doesn't necessarily need to be between Z"
+    },
+    {
+        "start": 2625.16,
+        "text": "and one or Z and 100 even right you"
+    },
+    {
+        "start": 2627.92,
+        "text": "could now use a different loss in order"
+    },
+    {
+        "start": 2629.839,
+        "text": "to produce that value because our"
+    },
+    {
+        "start": 2631.76,
+        "text": "outputs are no longer a probability"
+    },
+    {
+        "start": 2633.96,
+        "text": "distribution right so for example what"
+    },
+    {
+        "start": 2636.16,
+        "text": "you might do here is compute a mean"
+    },
+    {
+        "start": 2638.119,
+        "text": "squared error probabil or mean squared"
+    },
+    {
+        "start": 2640.119,
+        "text": "error loss function between your true"
+    },
+    {
+        "start": 2641.839,
+        "text": "value or your true grade of the class"
+    },
+    {
+        "start": 2644.88,
+        "text": "and the predicted grade right these are"
+    },
+    {
+        "start": 2646.8,
+        "text": "two numbers they're not probabilities"
+    },
+    {
+        "start": 2648.88,
+        "text": "necessarily you compute their difference"
+    },
+    {
+        "start": 2651.24,
+        "text": "you square it to to look at a distance"
+    },
+    {
+        "start": 2653.52,
+        "text": "between the two an absolute distance"
+    },
+    {
+        "start": 2656.28,
+        "text": "right sign doesn't matter and then you"
+    },
+    {
+        "start": 2658.52,
+        "text": "can minimize this thing"
+    },
+    {
+        "start": 2661.0,
+        "text": "right okay great so let's put all of"
+    },
+    {
+        "start": 2663.72,
+        "text": "this loss information with this problem"
+    },
+    {
+        "start": 2665.8,
+        "text": "of finding our Network"
+    },
+    {
+        "start": 2667.839,
+        "text": "into a unified problem and a unified"
+    },
+    {
+        "start": 2670.44,
+        "text": "solution to actually train our neural"
+    },
+    {
+        "start": 2674.079,
+        "text": "network so we knowe that we want to find"
+    },
+    {
+        "start": 2677.559,
+        "text": "a neural network that will solve this"
+    },
+    {
+        "start": 2679.559,
+        "text": "problem on all this data on average"
+    },
+    {
+        "start": 2681.92,
+        "text": "right that's how we contextualize this"
+    },
+    {
+        "start": 2684.0,
+        "text": "problem earlier in the in the lectures"
+    },
+    {
+        "start": 2686.24,
+        "text": "this means effectively that we're trying"
+    },
+    {
+        "start": 2687.76,
+        "text": "to solve or we're trying to find what"
+    },
+    {
+        "start": 2690.839,
+        "text": "are the weights for our neural network"
+    },
+    {
+        "start": 2693.079,
+        "text": "what are this ve this big Vector W that"
+    },
+    {
+        "start": 2695.8,
+        "text": "we talked about in earlier in the"
+    },
+    {
+        "start": 2697.24,
+        "text": "lecture what is this Vector W compute"
+    },
+    {
+        "start": 2699.92,
+        "text": "this Vector W for me based on all of the"
+    },
+    {
+        "start": 2702.599,
+        "text": "data that we have seen right now the"
+    },
+    {
+        "start": 2705.559,
+        "text": "vector W is also going to determine what"
+    },
+    {
+        "start": 2709.64,
+        "text": "is the loss right so given a single"
+    },
+    {
+        "start": 2711.92,
+        "text": "Vector w we can compute how bad is this"
+    },
+    {
+        "start": 2715.2,
+        "text": "neural network performing on our data"
+    },
+    {
+        "start": 2718.0,
+        "text": "right so what is the loss what is this"
+    },
+    {
+        "start": 2720.119,
+        "text": "deviation from the ground truth of our"
+    },
+    {
+        "start": 2722.64,
+        "text": "network uh based on where it should"
+    },
+    {
+        "start": 2725.28,
+        "text": "be now remember that that W is just a"
+    },
+    {
+        "start": 2729.559,
+        "text": "group of a bunch of numbers right it's a"
+    },
+    {
+        "start": 2732.559,
+        "text": "very big list of numbers a list of"
+    },
+    {
+        "start": 2735.48,
+        "text": "Weights uh for every single layer and"
+    },
+    {
+        "start": 2738.52,
+        "text": "every single neuron in our neural"
+    },
+    {
+        "start": 2740.88,
+        "text": "network right so it's just a very big"
+    },
+    {
+        "start": 2743.359,
+        "text": "list or a vector of of Weights we want"
+    },
+    {
+        "start": 2745.839,
+        "text": "to find that Vector what is that Vector"
+    },
+    {
+        "start": 2748.04,
+        "text": "based on a lot of data that's the"
+    },
+    {
+        "start": 2749.599,
+        "text": "problem of training a neural network and"
+    },
+    {
+        "start": 2751.88,
+        "text": "remember our loss function is just a"
+    },
+    {
+        "start": 2754.24,
+        "text": "simple function of our weights if we"
+    },
+    {
+        "start": 2757.28,
+        "text": "have only two weights in our neural"
+    },
+    {
+        "start": 2758.92,
+        "text": "network like we saw earlier in the slide"
+    },
+    {
+        "start": 2761.04,
+        "text": "then we can plot the Lost landscape over"
+    },
+    {
+        "start": 2763.839,
+        "text": "this two-dimensional space right so we"
+    },
+    {
+        "start": 2765.72,
+        "text": "have two weights W1 and W2 and for every"
+    },
+    {
+        "start": 2768.8,
+        "text": "single configuration or setting of those"
+    },
+    {
+        "start": 2772.04,
+        "text": "two weights our loss will have a"
+    },
+    {
+        "start": 2774.599,
+        "text": "particular value which here we're"
+    },
+    {
+        "start": 2775.88,
+        "text": "showing is the height of this graph"
+    },
+    {
+        "start": 2778.16,
+        "text": "right so for any W1 and W2 what is the"
+    },
+    {
+        "start": 2781.52,
+        "text": "loss and what we want to do is find the"
+    },
+    {
+        "start": 2784.52,
+        "text": "lowest point what is the best loss where"
+    },
+    {
+        "start": 2787.48,
+        "text": "what are the weights such that our loss"
+    },
+    {
+        "start": 2790.359,
+        "text": "will be as good as possible so the"
+    },
+    {
+        "start": 2793.04,
+        "text": "smaller the loss the better so we want"
+    },
+    {
+        "start": 2794.48,
+        "text": "to find the lowest point in this"
+    },
+    {
+        "start": 2797.599,
+        "text": "graph now how do we do that right so the"
+    },
+    {
+        "start": 2800.76,
+        "text": "way this works is we start somewhere in"
+    },
+    {
+        "start": 2803.88,
+        "text": "this space we don't know where to start"
+    },
+    {
+        "start": 2805.24,
+        "text": "so let's pick a random place to start"
+    },
+    {
+        "start": 2808.079,
+        "text": "right now from that place let's compute"
+    },
+    {
+        "start": 2812.559,
+        "text": "What's called the gradient of the"
+    },
+    {
+        "start": 2814.359,
+        "text": "landscape at that particular point this"
+    },
+    {
+        "start": 2816.48,
+        "text": "is a very local estimate of where is"
+    },
+    {
+        "start": 2819.88,
+        "text": "going up basically where where is the"
+    },
+    {
+        "start": 2822.079,
+        "text": "slope increasing at my current location"
+    },
+    {
+        "start": 2825.28,
+        "text": "right that informs us not only where the"
+    },
+    {
+        "start": 2827.2,
+        "text": "slope is increasing but more importantly"
+    },
+    {
+        "start": 2829.72,
+        "text": "where the slope is decreasing if I"
+    },
+    {
+        "start": 2831.28,
+        "text": "negate the direction if I go in the"
+    },
+    {
+        "start": 2832.68,
+        "text": "opposite direction I can actually step"
+    },
+    {
+        "start": 2835.04,
+        "text": "down into the landscape and change my"
+    },
+    {
+        "start": 2837.839,
+        "text": "weights such that I lower my"
+    },
+    {
+        "start": 2840.559,
+        "text": "loss so let's take a small step just a"
+    },
+    {
+        "start": 2843.359,
+        "text": "small step in the opposite direction of"
+    },
+    {
+        "start": 2845.319,
+        "text": "the part that's going up let's take a"
+    },
+    {
+        "start": 2847.559,
+        "text": "small step going down and we'll keep"
+    },
+    {
+        "start": 2849.88,
+        "text": "repeating this process we'll compute a"
+    },
+    {
+        "start": 2851.559,
+        "text": "new gradient at that new point and then"
+    },
+    {
+        "start": 2853.88,
+        "text": "we'll take another small step and we'll"
+    },
+    {
+        "start": 2855.28,
+        "text": "keep doing this over and over and over"
+    },
+    {
+        "start": 2856.96,
+        "text": "again until we converge at what's called"
+    },
+    {
+        "start": 2859.04,
+        "text": "a local minimum right so based on where"
+    },
+    {
+        "start": 2861.76,
+        "text": "we started it may not be a global"
+    },
+    {
+        "start": 2864.04,
+        "text": "minimum of everywhere in this lost"
+    },
+    {
+        "start": 2865.8,
+        "text": "landscape but let's find ourselves now"
+    },
+    {
+        "start": 2867.72,
+        "text": "in a local minimum and we're guaranteed"
+    },
+    {
+        "start": 2869.599,
+        "text": "to actually converge by following this"
+    },
+    {
+        "start": 2871.28,
+        "text": "very simple algorithm at a local"
+    },
+    {
+        "start": 2874.359,
+        "text": "minimum so let's summarize now this"
+    },
+    {
+        "start": 2876.44,
+        "text": "algorithm this algorithm is called"
+    },
+    {
+        "start": 2878.2,
+        "text": "gradient descent let's summarize it"
+    },
+    {
+        "start": 2879.8,
+        "text": "first in pseudo code and then we'll look"
+    },
+    {
+        "start": 2881.8,
+        "text": "at it in actual code in a second so"
+    },
+    {
+        "start": 2884.599,
+        "text": "there's a few steps first step is we"
+    },
+    {
+        "start": 2886.64,
+        "text": "initialize our location somewhere"
+    },
+    {
+        "start": 2889.2,
+        "text": "randomly in this weight space right we"
+    },
+    {
+        "start": 2892.4,
+        "text": "compute the gradient of of our loss at"
+    },
+    {
+        "start": 2897.04,
+        "text": "with respect to our weights okay and"
+    },
+    {
+        "start": 2900.24,
+        "text": "then we take a small step in the"
+    },
+    {
+        "start": 2901.76,
+        "text": "opposite direction and we keep repeating"
+    },
+    {
+        "start": 2903.76,
+        "text": "this in a loop over and over and over"
+    },
+    {
+        "start": 2905.48,
+        "text": "again and we say we keep we keep doing"
+    },
+    {
+        "start": 2907.2,
+        "text": "this until convergence right until we"
+    },
+    {
+        "start": 2909.359,
+        "text": "stop moving basically and our Network"
+    },
+    {
+        "start": 2911.72,
+        "text": "basically finds where it's supposed to"
+    },
+    {
+        "start": 2913.359,
+        "text": "end up we'll talk about this this uh"
+    },
+    {
+        "start": 2917.0,
+        "text": "this small step right so we're"
+    },
+    {
+        "start": 2918.599,
+        "text": "multiplying our gradient by what I keep"
+    },
+    {
+        "start": 2920.92,
+        "text": "calling is a small step we'll talk about"
+    },
+    {
+        "start": 2923.0,
+        "text": "that a bit more about a bit more in"
+    },
+    {
+        "start": 2925.72,
+        "text": "later part of this this lecture but for"
+    },
+    {
+        "start": 2928.079,
+        "text": "now let's also very quickly show the"
+    },
+    {
+        "start": 2930.079,
+        "text": "analogous part in in code as well and it"
+    },
+    {
+        "start": 2933.28,
+        "text": "mirrors very nicely right so we'll"
+    },
+    {
+        "start": 2935.2,
+        "text": "randomly initialize our weight"
+    },
+    {
+        "start": 2937.599,
+        "text": "this happens every time you train a"
+    },
+    {
+        "start": 2938.92,
+        "text": "neural network you have to randomly"
+    },
+    {
+        "start": 2940.28,
+        "text": "initialize the weights and then you have"
+    },
+    {
+        "start": 2941.92,
+        "text": "a loop right here showing it without"
+    },
+    {
+        "start": 2944.799,
+        "text": "even convergence right we're just going"
+    },
+    {
+        "start": 2946.359,
+        "text": "to keep looping forever where we say"
+    },
+    {
+        "start": 2949.119,
+        "text": "okay we're going to compute the loss at"
+    },
+    {
+        "start": 2950.76,
+        "text": "that location compute the gradient so"
+    },
+    {
+        "start": 2953.28,
+        "text": "which way is up and then we just negate"
+    },
+    {
+        "start": 2956.359,
+        "text": "that gradient multiply it by some what's"
+    },
+    {
+        "start": 2958.48,
+        "text": "called learning rate LR denoted here"
+    },
+    {
+        "start": 2960.839,
+        "text": "it's a small step and then we take a"
+    },
+    {
+        "start": 2963.119,
+        "text": "direction in that small"
+    },
+    {
+        "start": 2965.319,
+        "text": "step so let's take a deeper look at this"
+    },
+    {
+        "start": 2968.119,
+        "text": "term here this is called the gradient"
+    },
+    {
+        "start": 2969.92,
+        "text": "right this tells us which way is up in"
+    },
+    {
+        "start": 2971.92,
+        "text": "that landscape and this again it tells"
+    },
+    {
+        "start": 2974.839,
+        "text": "us even more than that it tells us how"
+    },
+    {
+        "start": 2976.64,
+        "text": "is our landscape how is our loss"
+    },
+    {
+        "start": 2979.319,
+        "text": "changing as a function of all of our"
+    },
+    {
+        "start": 2981.799,
+        "text": "weights but I actually have not told you"
+    },
+    {
+        "start": 2984.44,
+        "text": "how to compute this so let's talk about"
+    },
+    {
+        "start": 2986.559,
+        "text": "that process that process is called back"
+    },
+    {
+        "start": 2988.68,
+        "text": "propagation we'll go through this very"
+    },
+    {
+        "start": 2990.72,
+        "text": "very briefly and we'll start with the"
+    },
+    {
+        "start": 2993.24,
+        "text": "simplest neural network uh that's"
+    },
+    {
+        "start": 2995.68,
+        "text": "possible right so we already saw the"
+    },
+    {
+        "start": 2997.68,
+        "text": "simplest building block which is a"
+    },
+    {
+        "start": 2999.24,
+        "text": "single neuron now let's build the"
+    },
+    {
+        "start": 3000.599,
+        "text": "simplest neural network which is just a"
+    },
+    {
+        "start": 3002.88,
+        "text": "one neuron neural network right so it"
+    },
+    {
+        "start": 3005.24,
+        "text": "has one hidden neuron it goes from input"
+    },
+    {
+        "start": 3007.2,
+        "text": "to Hidden neuron to output and we want"
+    },
+    {
+        "start": 3009.839,
+        "text": "to compute the gradient of our loss with"
+    },
+    {
+        "start": 3012.24,
+        "text": "respect to this weight W2 okay so I'm"
+    },
+    {
+        "start": 3015.92,
+        "text": "highlighting it here so we have two"
+    },
+    {
+        "start": 3017.68,
+        "text": "weights let's compute the gradient first"
+    },
+    {
+        "start": 3020.48,
+        "text": "with respect to W2 and that tells us how"
+    },
+    {
+        "start": 3023.72,
+        "text": "much does a small change in w 2 affect"
+    },
+    {
+        "start": 3027.68,
+        "text": "our loss does our loss go up or down if"
+    },
+    {
+        "start": 3029.88,
+        "text": "we move our W2 a little bit in One"
+    },
+    {
+        "start": 3032.2,
+        "text": "Direction or another so let's write out"
+    },
+    {
+        "start": 3035.0,
+        "text": "this derivative we can start by applying"
+    },
+    {
+        "start": 3037.0,
+        "text": "the chain rule backwards from the loss"
+    },
+    {
+        "start": 3039.68,
+        "text": "through the"
+    },
+    {
+        "start": 3040.559,
+        "text": "output and specifically we can actually"
+    },
+    {
+        "start": 3043.64,
+        "text": "decompose this law this uh derivative"
+    },
+    {
+        "start": 3047.0,
+        "text": "this gradient into two parts right so"
+    },
+    {
+        "start": 3049.16,
+        "text": "the first part we're decomposing it from"
+    },
+    {
+        "start": 3051.52,
+        "text": "DJ"
+    },
+    {
+        "start": 3052.68,
+        "text": "dw2 into DJ Dy right which is our output"
+    },
+    {
+        "start": 3058.839,
+        "text": "multiplied by Dy dw2 right this is all"
+    },
+    {
+        "start": 3062.319,
+        "text": "possible right it's a chain rule it's a"
+    },
+    {
+        "start": 3064.839,
+        "text": "I'm just reciting a chain rule here from"
+    },
+    {
+        "start": 3067.92,
+        "text": "calculus this is possible because Y is"
+    },
+    {
+        "start": 3070.359,
+        "text": "only dependent on the previous layer and"
+    },
+    {
+        "start": 3073.24,
+        "text": "now let's suppose we don't want to do"
+    },
+    {
+        "start": 3074.48,
+        "text": "this for W2 but we want to do it for W1"
+    },
+    {
+        "start": 3076.96,
+        "text": "we can use the exact same process right"
+    },
+    {
+        "start": 3078.64,
+        "text": "but now it's one step further right"
+    },
+    {
+        "start": 3080.76,
+        "text": "we'll now replace W2 with W1 we need to"
+    },
+    {
+        "start": 3083.4,
+        "text": "apply the chain rule yet again once"
+    },
+    {
+        "start": 3085.52,
+        "text": "again to decompose the problem further"
+    },
+    {
+        "start": 3087.2,
+        "text": "and now we propagate our old gradient"
+    },
+    {
+        "start": 3089.0,
+        "text": "that we computed for W2 all the way back"
+    },
+    {
+        "start": 3092.28,
+        "text": "one more step uh to the weight that"
+    },
+    {
+        "start": 3094.48,
+        "text": "we're interested in which in this case"
+    },
+    {
+        "start": 3095.92,
+        "text": "is"
+    },
+    {
+        "start": 3097.0,
+        "text": "W1 and we keep repeating this process"
+    },
+    {
+        "start": 3099.68,
+        "text": "over and over again propagating these"
+    },
+    {
+        "start": 3101.4,
+        "text": "gradients backwards from output to input"
+    },
+    {
+        "start": 3104.4,
+        "text": "to compute ultimately what we want in"
+    },
+    {
+        "start": 3106.799,
+        "text": "the end is this derivative of every"
+    },
+    {
+        "start": 3109.64,
+        "text": "weight so the the derivative of our loss"
+    },
+    {
+        "start": 3112.48,
+        "text": "with respect to every weight in our"
+    },
+    {
+        "start": 3114.04,
+        "text": "neural network this tells us how much"
+    },
+    {
+        "start": 3115.799,
+        "text": "does a small change in every single"
+    },
+    {
+        "start": 3117.559,
+        "text": "weight in our Network affect the loss"
+    },
+    {
+        "start": 3119.44,
+        "text": "does our loss go up or down if we change"
+    },
+    {
+        "start": 3121.24,
+        "text": "this weight a little bit in this"
+    },
+    {
+        "start": 3122.799,
+        "text": "direction or a little bit in that"
+    },
+    {
+        "start": 3124.079,
+        "text": "direction yes I think you use the term"
+    },
+    {
+        "start": 3127.16,
+        "text": "neuron is perceptron is there a"
+    },
+    {
+        "start": 3129.2,
+        "text": "functional difference neuron and"
+    },
+    {
+        "start": 3130.76,
+        "text": "perceptron are the same so typically"
+    },
+    {
+        "start": 3132.64,
+        "text": "people say neural network which is why"
+    },
+    {
+        "start": 3134.52,
+        "text": "like a single neuron it's also gotten"
+    },
+    {
+        "start": 3136.559,
+        "text": "popularity but originally a perceptron"
+    },
+    {
+        "start": 3139.2,
+        "text": "is is the the formal term the two terms"
+    },
+    {
+        "start": 3141.88,
+        "text": "are"
+    },
+    {
+        "start": 3144.48,
+        "text": "identical Okay so now we've covered a"
+    },
+    {
+        "start": 3148.0,
+        "text": "lot so we've covered the forward"
+    },
+    {
+        "start": 3149.28,
+        "text": "propagation of information through a"
+    },
+    {
+        "start": 3150.839,
+        "text": "neuron and through a neural network all"
+    },
+    {
+        "start": 3153.2,
+        "text": "the way through and we've covered now"
+    },
+    {
+        "start": 3155.04,
+        "text": "the back propagation of information to"
+    },
+    {
+        "start": 3157.839,
+        "text": "understand how we should uh change every"
+    },
+    {
+        "start": 3160.16,
+        "text": "single one of those weights in our"
+    },
+    {
+        "start": 3161.44,
+        "text": "neural network to improve our"
+    },
+    {
+        "start": 3164.319,
+        "text": "loss so that was the back propop"
+    },
+    {
+        "start": 3166.839,
+        "text": "algorithm in theory it's actually pretty"
+    },
+    {
+        "start": 3169.559,
+        "text": "simple it's just a chain rule right"
+    },
+    {
+        "start": 3171.64,
+        "text": "there's nothing there's actually nothing"
+    },
+    {
+        "start": 3172.92,
+        "text": "more than than just the chain Rule and"
+    },
+    {
+        "start": 3175.799,
+        "text": "the nice part that deep learning"
+    },
+    {
+        "start": 3177.2,
+        "text": "libraries actually do this for you so"
+    },
+    {
+        "start": 3178.92,
+        "text": "they compute back prop for you you don't"
+    },
+    {
+        "start": 3180.599,
+        "text": "actually have to implement it yourself"
+    },
+    {
+        "start": 3181.96,
+        "text": "which is very convenient but now it's"
+    },
+    {
+        "start": 3184.04,
+        "text": "important to touch on even though the"
+    },
+    {
+        "start": 3186.24,
+        "text": "theory is actually not that complicated"
+    },
+    {
+        "start": 3188.119,
+        "text": "for back propagation let's touch on it"
+    },
+    {
+        "start": 3190.28,
+        "text": "now from practice now thinking a little"
+    },
+    {
+        "start": 3192.559,
+        "text": "bit towards your own implementations"
+    },
+    {
+        "start": 3194.2,
+        "text": "when you want to implement these neural"
+    },
+    {
+        "start": 3196.079,
+        "text": "networks what are some insights so"
+    },
+    {
+        "start": 3198.92,
+        "text": "optimization of neural networks in"
+    },
+    {
+        "start": 3200.76,
+        "text": "practice is a completely different story"
+    },
+    {
+        "start": 3202.839,
+        "text": "it's not straightforward at all and in"
+    },
+    {
+        "start": 3205.64,
+        "text": "practice it's very difficult and usually"
+    },
+    {
+        "start": 3207.799,
+        "text": "very computationally intensive to do"
+    },
+    {
+        "start": 3209.799,
+        "text": "this backrop algorithm so here's an"
+    },
+    {
+        "start": 3212.079,
+        "text": "illustration from a paper that came out"
+    },
+    {
+        "start": 3214.079,
+        "text": "a few years ago that actually attempted"
+    },
+    {
+        "start": 3216.52,
+        "text": "to visualize a very deep neural"
+    },
+    {
+        "start": 3218.599,
+        "text": "Network's lost landscape so previously"
+    },
+    {
+        "start": 3220.599,
+        "text": "we had that other uh depiction"
+    },
+    {
+        "start": 3222.96,
+        "text": "visualization of how a neural network"
+    },
+    {
+        "start": 3225.0,
+        "text": "would look in a two-dimensional"
+    },
+    {
+        "start": 3226.0,
+        "text": "landscape real neural networks are not"
+    },
+    {
+        "start": 3228.04,
+        "text": "two-dimensional"
+    },
+    {
+        "start": 3229.68,
+        "text": "they're hundreds or millions or billions"
+    },
+    {
+        "start": 3232.2,
+        "text": "of dimensions and now what would those"
+    },
+    {
+        "start": 3235.799,
+        "text": "lost landscap apes look like you can"
+    },
+    {
+        "start": 3237.599,
+        "text": "actually try some clever techniques to"
+    },
+    {
+        "start": 3239.64,
+        "text": "actually visualize them this is one"
+    },
+    {
+        "start": 3240.88,
+        "text": "paper that attempted to do that and it"
+    },
+    {
+        "start": 3243.28,
+        "text": "turns out that they look extremely messy"
+    },
+    {
+        "start": 3246.68,
+        "text": "right um the important thing is that if"
+    },
+    {
+        "start": 3249.799,
+        "text": "you do this algorithm and you start in a"
+    },
+    {
+        "start": 3251.88,
+        "text": "bad place depending on your neural"
+    },
+    {
+        "start": 3253.64,
+        "text": "network you may not actually end up in"
+    },
+    {
+        "start": 3255.92,
+        "text": "the the global solution right so your"
+    },
+    {
+        "start": 3258.0,
+        "text": "initialization matters a lot and you"
+    },
+    {
+        "start": 3260.04,
+        "text": "need to kind of Traverse these local"
+    },
+    {
+        "start": 3261.839,
+        "text": "Minima and try to try and help you find"
+    },
+    {
+        "start": 3264.24,
+        "text": "the global Minima or even more than that"
+    },
+    {
+        "start": 3266.799,
+        "text": "you need to construct neural networks"
+    },
+    {
+        "start": 3269.48,
+        "text": "that have lost Landscapes that are much"
+    },
+    {
+        "start": 3271.88,
+        "text": "more amenable to optimization than this"
+    },
+    {
+        "start": 3274.04,
+        "text": "one right so this is a very bad lost"
+    },
+    {
+        "start": 3275.599,
+        "text": "landscape there are some techniques that"
+    },
+    {
+        "start": 3277.64,
+        "text": "we can apply to our neural networks that"
+    },
+    {
+        "start": 3279.92,
+        "text": "smooth out their lost landscape and make"
+    },
+    {
+        "start": 3281.68,
+        "text": "them easier to"
+    },
+    {
+        "start": 3283.04,
+        "text": "optimize so recall that update equation"
+    },
+    {
+        "start": 3286.04,
+        "text": "that we talked about earlier with"
+    },
+    {
+        "start": 3287.92,
+        "text": "gradient descent right so there is this"
+    },
+    {
+        "start": 3289.76,
+        "text": "parameter here that we didn't talk about"
+    },
+    {
+        "start": 3292.24,
+        "text": "we we described this as the little step"
+    },
+    {
+        "start": 3294.2,
+        "text": "that you could take right so it's a"
+    },
+    {
+        "start": 3295.359,
+        "text": "small number that multiply with the"
+    },
+    {
+        "start": 3297.76,
+        "text": "direction which is your gradient it just"
+    },
+    {
+        "start": 3299.72,
+        "text": "tells you okay I'm not going to just go"
+    },
+    {
+        "start": 3301.44,
+        "text": "all the way in this direction I'll just"
+    },
+    {
+        "start": 3302.839,
+        "text": "take a small step in this direction so"
+    },
+    {
+        "start": 3305.359,
+        "text": "in practice even setting this value"
+    },
+    {
+        "start": 3307.88,
+        "text": "right it's just one number setting this"
+    },
+    {
+        "start": 3309.68,
+        "text": "one number can be rather difficult right"
+    },
+    {
+        "start": 3312.839,
+        "text": "if we set the learning rate too um small"
+    },
+    {
+        "start": 3316.68,
+        "text": "then the model can get stuck in these"
+    },
+    {
+        "start": 3319.04,
+        "text": "local Minima right so here it starts and"
+    },
+    {
+        "start": 3321.359,
+        "text": "it kind of gets stuck in this local"
+    },
+    {
+        "start": 3322.839,
+        "text": "Minima it converges very slowly even if"
+    },
+    {
+        "start": 3325.2,
+        "text": "it doesn't get stuck if the learning"
+    },
+    {
+        "start": 3327.24,
+        "text": "rate is too large it can kind of"
+    },
+    {
+        "start": 3328.96,
+        "text": "overshoot and in practice it even"
+    },
+    {
+        "start": 3331.079,
+        "text": "diverges and explodes and you don't"
+    },
+    {
+        "start": 3333.839,
+        "text": "actually ever find any"
+    },
+    {
+        "start": 3335.839,
+        "text": "Minima now ideally what we want is to"
+    },
+    {
+        "start": 3338.599,
+        "text": "use learning rates that are not too"
+    },
+    {
+        "start": 3340.4,
+        "text": "small and not too large to so they're"
+    },
+    {
+        "start": 3343.4,
+        "text": "large enough to basically avoid those"
+    },
+    {
+        "start": 3345.039,
+        "text": "local Minima but small enough such that"
+    },
+    {
+        "start": 3347.88,
+        "text": "they won't diverge and they will"
+    },
+    {
+        "start": 3349.28,
+        "text": "actually still find their way into the"
+    },
+    {
+        "start": 3352.039,
+        "text": "global Minima so something like this is"
+    },
+    {
+        "start": 3354.24,
+        "text": "what you should intuitively have in mind"
+    },
+    {
+        "start": 3356.079,
+        "text": "right so something that can overshoot"
+    },
+    {
+        "start": 3357.44,
+        "text": "the local minimas but find itself into a"
+    },
+    {
+        "start": 3359.96,
+        "text": "a better Minima and then finally"
+    },
+    {
+        "start": 3362.119,
+        "text": "stabilize itself there so how do we"
+    },
+    {
+        "start": 3364.44,
+        "text": "actually set these learning rates right"
+    },
+    {
+        "start": 3366.44,
+        "text": "in practice what does that process look"
+    },
+    {
+        "start": 3368.16,
+        "text": "like now idea number one is is very"
+    },
+    {
+        "start": 3371.44,
+        "text": "basic right it's try a bunch of"
+    },
+    {
+        "start": 3372.839,
+        "text": "different learning rates and see what"
+    },
+    {
+        "start": 3374.16,
+        "text": "works and that's actually a not a bad"
+    },
+    {
+        "start": 3377.28,
+        "text": "process in practice it's one of the"
+    },
+    {
+        "start": 3378.799,
+        "text": "processes that people use um so that"
+    },
+    {
+        "start": 3382.28,
+        "text": "that's uh that's interesting but let's"
+    },
+    {
+        "start": 3383.96,
+        "text": "see if we can do something smarter than"
+    },
+    {
+        "start": 3385.48,
+        "text": "this and let's see how can design"
+    },
+    {
+        "start": 3387.64,
+        "text": "algorithms that uh can adapt to the"
+    },
+    {
+        "start": 3390.52,
+        "text": "Landscapes right so in practice there's"
+    },
+    {
+        "start": 3392.64,
+        "text": "no reason why this should be a single"
+    },
+    {
+        "start": 3394.119,
+        "text": "number right can we have learning rates"
+    },
+    {
+        "start": 3397.119,
+        "text": "that adapt to the model to the data to"
+    },
+    {
+        "start": 3400.2,
+        "text": "the Landscapes to the gradients that"
+    },
+    {
+        "start": 3401.799,
+        "text": "it's seeing around so this means that"
+    },
+    {
+        "start": 3404.039,
+        "text": "the learning rate may actually increase"
+    },
+    {
+        "start": 3406.2,
+        "text": "or decrease as a function of the"
+    },
+    {
+        "start": 3409.0,
+        "text": "gradients in the loss function right how"
+    },
+    {
+        "start": 3411.72,
+        "text": "fast we're learning or many other"
+    },
+    {
+        "start": 3413.799,
+        "text": "options right there are many different"
+    },
+    {
+        "start": 3415.76,
+        "text": "ideas that could be done here and in"
+    },
+    {
+        "start": 3417.359,
+        "text": "fact there are many widely used"
+    },
+    {
+        "start": 3420.44,
+        "text": "different procedures or methodologies"
+    },
+    {
+        "start": 3423.28,
+        "text": "for setting the learning rate and during"
+    },
+    {
+        "start": 3425.88,
+        "text": "your Labs we actually encourage you to"
+    },
+    {
+        "start": 3427.799,
+        "text": "try out some of these different ideas"
+    },
+    {
+        "start": 3429.96,
+        "text": "for different types of learning rates"
+    },
+    {
+        "start": 3431.44,
+        "text": "and and even play around with you know"
+    },
+    {
+        "start": 3433.48,
+        "text": "what what's the effect of increasing or"
+    },
+    {
+        "start": 3435.119,
+        "text": "decreasing your learning rate you'll see"
+    },
+    {
+        "start": 3436.599,
+        "text": "very striking"
+    },
+    {
+        "start": 3439.559,
+        "text": "differences do it because it's on a"
+    },
+    {
+        "start": 3441.44,
+        "text": "close interval why not just find the"
+    },
+    {
+        "start": 3443.799,
+        "text": "absolute minimum you know test"
+    },
+    {
+        "start": 3447.96,
+        "text": "right so so a few things what number one"
+    },
+    {
+        "start": 3450.559,
+        "text": "is that it's not a closed space right so"
+    },
+    {
+        "start": 3452.76,
+        "text": "there's an infinite every every weight"
+    },
+    {
+        "start": 3454.68,
+        "text": "can be plus or minus up to Infinity"
+    },
+    {
+        "start": 3457.28,
+        "text": "right so even if it was a"
+    },
+    {
+        "start": 3459.319,
+        "text": "one-dimensional neural network with just"
+    },
+    {
+        "start": 3461.24,
+        "text": "one weight it's not a closed"
+    },
+    {
+        "start": 3463.559,
+        "text": "space in practice it's even worse than"
+    },
+    {
+        "start": 3466.079,
+        "text": "that because you have billions of"
+    },
+    {
+        "start": 3468.839,
+        "text": "Dimensions right so not only is your uh"
+    },
+    {
+        "start": 3472.119,
+        "text": "space your support system in one"
+    },
+    {
+        "start": 3474.4,
+        "text": "dimension is it infinite but you now"
+    },
+    {
+        "start": 3476.92,
+        "text": "have billions of infinite Dimensions"
+    },
+    {
+        "start": 3478.76,
+        "text": "right or billions of uh infinite support"
+    },
+    {
+        "start": 3480.88,
+        "text": "spaces so it's not something that you"
+    },
+    {
+        "start": 3482.799,
+        "text": "can just like search every weight every"
+    },
+    {
+        "start": 3484.92,
+        "text": "possible weight in your neural in your"
+    },
+    {
+        "start": 3487.68,
+        "text": "configuration or what is every possible"
+    },
+    {
+        "start": 3489.4,
+        "text": "weight that this neural network could"
+    },
+    {
+        "start": 3490.64,
+        "text": "take and let me test them out because it"
+    },
+    {
+        "start": 3493.799,
+        "text": "it's not practical to do even for a very"
+    },
+    {
+        "start": 3495.52,
+        "text": "small neural network in"
+    },
+    {
+        "start": 3498.96,
+        "text": "practice so in your Labs you can really"
+    },
+    {
+        "start": 3501.64,
+        "text": "try to put all of this information uh in"
+    },
+    {
+        "start": 3504.16,
+        "text": "this picture into practice which defines"
+    },
+    {
+        "start": 3506.96,
+        "text": "your model number one right here defines"
+    },
+    {
+        "start": 3510.599,
+        "text": "your Optimizer which previously we"
+    },
+    {
+        "start": 3513.48,
+        "text": "denoted as this gradient descent"
+    },
+    {
+        "start": 3515.16,
+        "text": "Optimizer here we're calling it uh"
+    },
+    {
+        "start": 3517.24,
+        "text": "stochastic gradient descent or SGD we'll"
+    },
+    {
+        "start": 3519.64,
+        "text": "talk about that more in a second and"
+    },
+    {
+        "start": 3521.799,
+        "text": "then also note that your Optimizer which"
+    },
+    {
+        "start": 3524.839,
+        "text": "here we're calling SGD could be any of"
+    },
+    {
+        "start": 3527.52,
+        "text": "these adaptive optimizers you can swap"
+    },
+    {
+        "start": 3529.28,
+        "text": "them out and you should swap them out"
+    },
+    {
+        "start": 3530.64,
+        "text": "you should test different things here to"
+    },
+    {
+        "start": 3532.119,
+        "text": "see the impact of these different"
+    },
+    {
+        "start": 3534.44,
+        "text": "methods on your training procedure and"
+    },
+    {
+        "start": 3536.96,
+        "text": "you'll gain very valuable intuition for"
+    },
+    {
+        "start": 3539.96,
+        "text": "the different insights that will come"
+    },
+    {
+        "start": 3541.319,
+        "text": "with that as well so I want to continue"
+    },
+    {
+        "start": 3543.64,
+        "text": "very briefly just for the end of this"
+    },
+    {
+        "start": 3545.16,
+        "text": "lecture to talk about tips for training"
+    },
+    {
+        "start": 3547.88,
+        "text": "neural networks in practice and how we"
+    },
+    {
+        "start": 3549.92,
+        "text": "can focus on this powerful idea of"
+    },
+    {
+        "start": 3553.359,
+        "text": "really what's called batching data right"
+    },
+    {
+        "start": 3555.96,
+        "text": "not seeing all of your data but now"
+    },
+    {
+        "start": 3558.44,
+        "text": "talking about a topic called"
+    },
+    {
+        "start": 3560.359,
+        "text": "batching so to do this let's very"
+    },
+    {
+        "start": 3562.599,
+        "text": "briefly revisit this gradient descent"
+    },
+    {
+        "start": 3564.319,
+        "text": "algorithm the gradient is compute this"
+    },
+    {
+        "start": 3567.16,
+        "text": "gradient computation the backrop"
+    },
+    {
+        "start": 3569.039,
+        "text": "algorithm I mentioned this earlier it's"
+    },
+    {
+        "start": 3570.839,
+        "text": "a very computationally expensive uh"
+    },
+    {
+        "start": 3573.72,
+        "text": "operation and it's even worse because we"
+    },
+    {
+        "start": 3576.24,
+        "text": "now are we previously described it in a"
+    },
+    {
+        "start": 3578.44,
+        "text": "way where we would have to compute it"
+    },
+    {
+        "start": 3580.0,
+        "text": "over a summation over every single data"
+    },
+    {
+        "start": 3582.64,
+        "text": "point in our entire data set right"
+    },
+    {
+        "start": 3584.92,
+        "text": "that's how we defined it with the loss"
+    },
+    {
+        "start": 3586.24,
+        "text": "function it's an average over all of our"
+    },
+    {
+        "start": 3588.079,
+        "text": "data points which means that we're"
+    },
+    {
+        "start": 3589.48,
+        "text": "summing over all of our data points the"
+    },
+    {
+        "start": 3591.44,
+        "text": "gradients so in most real life problems"
+    },
+    {
+        "start": 3594.359,
+        "text": "this would be completely infeasible to"
+    },
+    {
+        "start": 3596.119,
+        "text": "do because our data sets are simply too"
+    },
+    {
+        "start": 3597.72,
+        "text": "big and the models are too big to to"
+    },
+    {
+        "start": 3600.079,
+        "text": "compute those gradients on every single"
+    },
+    {
+        "start": 3601.72,
+        "text": "iteration remember this isn't just a"
+    },
+    {
+        "start": 3603.2,
+        "text": "onetime thing right it's every single"
+    },
+    {
+        "start": 3605.319,
+        "text": "step that you do you keep taking small"
+    },
+    {
+        "start": 3607.079,
+        "text": "steps so you keep need you keep needing"
+    },
+    {
+        "start": 3609.16,
+        "text": "to repeat this process so instead let's"
+    },
+    {
+        "start": 3611.68,
+        "text": "define a new gradient descent algorithm"
+    },
+    {
+        "start": 3613.68,
+        "text": "called SGD stochastic gradient descent"
+    },
+    {
+        "start": 3616.76,
+        "text": "instead of computing the gradient over"
+    },
+    {
+        "start": 3618.48,
+        "text": "the entire data set now let's just pick"
+    },
+    {
+        "start": 3621.68,
+        "text": "a single training point and compute that"
+    },
+    {
+        "start": 3624.4,
+        "text": "one training Point gradient"
+    },
+    {
+        "start": 3626.48,
+        "text": "right the nice thing about that is that"
+    },
+    {
+        "start": 3628.839,
+        "text": "it's much easier to compute that"
+    },
+    {
+        "start": 3630.72,
+        "text": "gradient right it only needs one point"
+    },
+    {
+        "start": 3633.16,
+        "text": "and the downside is that it's very noisy"
+    },
+    {
+        "start": 3636.28,
+        "text": "it's very stochastic since it was"
+    },
+    {
+        "start": 3638.359,
+        "text": "computed using just that one examples"
+    },
+    {
+        "start": 3640.2,
+        "text": "right so you have that that tradeoff"
+    },
+    {
+        "start": 3641.96,
+        "text": "that"
+    },
+    {
+        "start": 3642.72,
+        "text": "exists so what's the middle ground right"
+    },
+    {
+        "start": 3645.24,
+        "text": "the middle ground is to take not one"
+    },
+    {
+        "start": 3647.079,
+        "text": "data point and not the full data set but"
+    },
+    {
+        "start": 3650.359,
+        "text": "a batch of data right so take a what's"
+    },
+    {
+        "start": 3652.079,
+        "text": "called a mini batch right this could be"
+    },
+    {
+        "start": 3653.799,
+        "text": "something in practice like 32 pieces of"
+    },
+    {
+        "start": 3656.24,
+        "text": "data is a common batch size and this"
+    },
+    {
+        "start": 3658.92,
+        "text": "gives us an estimate of the true"
+    },
+    {
+        "start": 3660.839,
+        "text": "gradient right so you approximate the"
+    },
+    {
+        "start": 3662.52,
+        "text": "gradient by averaging the gradient of"
+    },
+    {
+        "start": 3664.599,
+        "text": "these 32 samples it's still fast because"
+    },
+    {
+        "start": 3668.0,
+        "text": "32 is much smaller than the size of your"
+    },
+    {
+        "start": 3670.24,
+        "text": "entire data set but it's pretty quick"
+    },
+    {
+        "start": 3672.96,
+        "text": "now right it's still noisy but it's okay"
+    },
+    {
+        "start": 3675.039,
+        "text": "usually in practice because you can"
+    },
+    {
+        "start": 3676.359,
+        "text": "still iterate much"
+    },
+    {
+        "start": 3678.4,
+        "text": "faster and since B is normally not that"
+    },
+    {
+        "start": 3681.0,
+        "text": "large again think of something like in"
+    },
+    {
+        "start": 3682.96,
+        "text": "the tens or the hundreds of samples it's"
+    },
+    {
+        "start": 3686.0,
+        "text": "very fast to compute this in practice"
+    },
+    {
+        "start": 3688.039,
+        "text": "compared to regular gradient descent and"
+    },
+    {
+        "start": 3690.319,
+        "text": "it's also much more accurate compared to"
+    },
+    {
+        "start": 3692.4,
+        "text": "stochastic gradient descent and the"
+    },
+    {
+        "start": 3694.559,
+        "text": "increase in accuracy of this gradient"
+    },
+    {
+        "start": 3697.0,
+        "text": "estimation allows us to converge to our"
+    },
+    {
+        "start": 3699.52,
+        "text": "solution significantly faster as well"
+    },
+    {
+        "start": 3702.44,
+        "text": "right it's not only about the speed it's"
+    },
+    {
+        "start": 3704.359,
+        "text": "just about the increase in accuracy of"
+    },
+    {
+        "start": 3706.2,
+        "text": "those gradients allows us to get to our"
+    },
+    {
+        "start": 3708.4,
+        "text": "solution much"
+    },
+    {
+        "start": 3709.92,
+        "text": "faster which ultimately means that we"
+    },
+    {
+        "start": 3712.0,
+        "text": "can train much faster as well and we can"
+    },
+    {
+        "start": 3714.039,
+        "text": "save compute and the other really nice"
+    },
+    {
+        "start": 3716.88,
+        "text": "thing about mini batches is that they"
+    },
+    {
+        "start": 3719.559,
+        "text": "allow for parallelizing our computation"
+    },
+    {
+        "start": 3723.24,
+        "text": "right and that was a concept that we had"
+    },
+    {
+        "start": 3724.64,
+        "text": "talked about earlier in the class as"
+    },
+    {
+        "start": 3726.0,
+        "text": "well and here's where it's coming in we"
+    },
+    {
+        "start": 3727.92,
+        "text": "can split up those batches right so"
+    },
+    {
+        "start": 3730.079,
+        "text": "those 32 pieces of data let's say if our"
+    },
+    {
+        "start": 3732.2,
+        "text": "batch size is 32 we can split them up"
+    },
+    {
+        "start": 3734.68,
+        "text": "onto different workers right different"
+    },
+    {
+        "start": 3737.079,
+        "text": "parts of the GPU can tackle those"
+    },
+    {
+        "start": 3739.359,
+        "text": "different parts of our data points this"
+    },
+    {
+        "start": 3742.839,
+        "text": "can allow us to basically achieve even"
+    },
+    {
+        "start": 3744.599,
+        "text": "more significant speed up using GPU"
+    },
+    {
+        "start": 3747.279,
+        "text": "architectures and GPU Hardware okay"
+    },
+    {
+        "start": 3750.16,
+        "text": "finally last topic I want to talk about"
+    },
+    {
+        "start": 3752.319,
+        "text": "before we end this lecture and move on"
+    },
+    {
+        "start": 3754.16,
+        "text": "to lecture number two is overfitting"
+    },
+    {
+        "start": 3757.079,
+        "text": "right so overfitting is this idea that"
+    },
+    {
+        "start": 3759.559,
+        "text": "is actually not a deep learning Centric"
+    },
+    {
+        "start": 3761.559,
+        "text": "problem at all it's it's a problem that"
+    },
+    {
+        "start": 3763.0,
+        "text": "exists in all of machine learning right"
+    },
+    {
+        "start": 3765.52,
+        "text": "the key problem is that and the key"
+    },
+    {
+        "start": 3769.0,
+        "text": "problem is actually one"
+    },
+    {
+        "start": 3771.44,
+        "text": "that addresses how you can accurately"
+    },
+    {
+        "start": 3774.64,
+        "text": "Define if if your model is is actually"
+    },
+    {
+        "start": 3778.319,
+        "text": "capturing your true data set right or if"
+    },
+    {
+        "start": 3781.52,
+        "text": "it's just learning kind of the subtle"
+    },
+    {
+        "start": 3783.44,
+        "text": "details that are kind of sply"
+    },
+    {
+        "start": 3786.279,
+        "text": "correlating to your data set so said"
+    },
+    {
+        "start": 3789.119,
+        "text": "differently let me say it a bit"
+    },
+    {
+        "start": 3790.52,
+        "text": "differently now so let's say we want to"
+    },
+    {
+        "start": 3793.4,
+        "text": "build models that can learn"
+    },
+    {
+        "start": 3796.4,
+        "text": "representations okay from our training"
+    },
+    {
+        "start": 3798.48,
+        "text": "data that still generalize to brand new"
+    },
+    {
+        "start": 3801.72,
+        "text": "unseen test points right that's the real"
+    },
+    {
+        "start": 3804.2,
+        "text": "goal here is we want to teach our model"
+    },
+    {
+        "start": 3806.119,
+        "text": "something based on a lot of training"
+    },
+    {
+        "start": 3807.4,
+        "text": "data but then we don't want it to do"
+    },
+    {
+        "start": 3809.079,
+        "text": "well in the training data we want it to"
+    },
+    {
+        "start": 3810.4,
+        "text": "do well when we deploy it into the real"
+    },
+    {
+        "start": 3812.68,
+        "text": "world and it's seeing things that it has"
+    },
+    {
+        "start": 3814.2,
+        "text": "never seen during training so the"
+    },
+    {
+        "start": 3816.64,
+        "text": "concept of overfitting is exactly"
+    },
+    {
+        "start": 3819.319,
+        "text": "addressing that problem overfitting"
+    },
+    {
+        "start": 3821.48,
+        "text": "means if if your model is doing very"
+    },
+    {
+        "start": 3825.319,
+        "text": "well on your training data but very"
+    },
+    {
+        "start": 3827.0,
+        "text": "badly in testing it pro it's that means"
+    },
+    {
+        "start": 3830.279,
+        "text": "it's overfitting it's overfitting to the"
+    },
+    {
+        "start": 3832.96,
+        "text": "training data that it saw on the other"
+    },
+    {
+        "start": 3834.64,
+        "text": "hand there's also underfitting"
+    },
+    {
+        "start": 3836.319,
+        "text": "right on the left hand side you can see"
+    },
+    {
+        "start": 3838.44,
+        "text": "basically not fitting the data enough"
+    },
+    {
+        "start": 3841.48,
+        "text": "which means that you know you're going"
+    },
+    {
+        "start": 3842.88,
+        "text": "to achieve very similar performance on"
+    },
+    {
+        "start": 3844.48,
+        "text": "your testing distribution but both are"
+    },
+    {
+        "start": 3846.799,
+        "text": "underperforming the actual capabilities"
+    },
+    {
+        "start": 3849.279,
+        "text": "of your system now ideally you want to"
+    },
+    {
+        "start": 3851.68,
+        "text": "end up somewhere in the middle which is"
+    },
+    {
+        "start": 3853.88,
+        "text": "not too complex where you're memorizing"
+    },
+    {
+        "start": 3856.039,
+        "text": "all of the nuances in your training data"
+    },
+    {
+        "start": 3858.2,
+        "text": "like on the right but you still want to"
+    },
+    {
+        "start": 3860.48,
+        "text": "continue to perform well even based on"
+    },
+    {
+        "start": 3863.48,
+        "text": "the brand new data so you're not"
+    },
+    {
+        "start": 3864.599,
+        "text": "underfitting as well"
+    },
+    {
+        "start": 3866.599,
+        "text": "so to talk to actually address this"
+    },
+    {
+        "start": 3868.64,
+        "text": "problem in neural networks and in"
+    },
+    {
+        "start": 3870.2,
+        "text": "machine learning in general there's a"
+    },
+    {
+        "start": 3871.44,
+        "text": "few different ways that you should be"
+    },
+    {
+        "start": 3873.119,
+        "text": "aware of and how to do it because you'll"
+    },
+    {
+        "start": 3874.96,
+        "text": "need to apply them as part of your"
+    },
+    {
+        "start": 3877.279,
+        "text": "Solutions and your software Labs as well"
+    },
+    {
+        "start": 3879.72,
+        "text": "so the key concept here is called"
+    },
+    {
+        "start": 3881.559,
+        "text": "regularization right regularization is a"
+    },
+    {
+        "start": 3883.88,
+        "text": "technique that you can introduce and"
+    },
+    {
+        "start": 3886.559,
+        "text": "said very simply all regularization is"
+    },
+    {
+        "start": 3889.2,
+        "text": "is a way to discourage your model"
+    },
+    {
+        "start": 3893.119,
+        "text": "from from these nuances in your training"
+    },
+    {
+        "start": 3897.0,
+        "text": "data from being learned that's all it is"
+    },
+    {
+        "start": 3899.839,
+        "text": "and as we've seen before it's actually"
+    },
+    {
+        "start": 3901.319,
+        "text": "critical for our models to be able to"
+    },
+    {
+        "start": 3903.119,
+        "text": "generalize you know not just on training"
+    },
+    {
+        "start": 3905.319,
+        "text": "data but really what we care about is"
+    },
+    {
+        "start": 3907.16,
+        "text": "the testing data so the most popular"
+    },
+    {
+        "start": 3909.92,
+        "text": "regularization technique that's"
+    },
+    {
+        "start": 3911.599,
+        "text": "important for you to understand is this"
+    },
+    {
+        "start": 3913.799,
+        "text": "very simple idea called Dropout let's"
+    },
+    {
+        "start": 3916.92,
+        "text": "revisit this picture of a deep neural"
+    },
+    {
+        "start": 3918.559,
+        "text": "network that we've been seeing all"
+    },
+    {
+        "start": 3920.0,
+        "text": "lecture right in Dropout our training"
+    },
+    {
+        "start": 3922.799,
+        "text": "during training what we're going to do"
+    },
+    {
+        "start": 3924.88,
+        "text": "is randomly set some of the activations"
+    },
+    {
+        "start": 3927.839,
+        "text": "right these outputs of every single"
+    },
+    {
+        "start": 3929.799,
+        "text": "neuron to zero we're just randomly going"
+    },
+    {
+        "start": 3932.559,
+        "text": "to set them to zero with some"
+    },
+    {
+        "start": 3934.2,
+        "text": "probability right so let's say 50% is"
+    },
+    {
+        "start": 3937.72,
+        "text": "our probability that means that we're"
+    },
+    {
+        "start": 3940.0,
+        "text": "going to take all of the activation in"
+    },
+    {
+        "start": 3942.64,
+        "text": "our in our neural network and with a"
+    },
+    {
+        "start": 3944.92,
+        "text": "probability of 50% before we pass that"
+    },
+    {
+        "start": 3947.359,
+        "text": "activation onto the next neuron we're"
+    },
+    {
+        "start": 3949.4,
+        "text": "just going to set it to zero and not"
+    },
+    {
+        "start": 3951.88,
+        "text": "pass on anything so effectively 50% of"
+    },
+    {
+        "start": 3954.76,
+        "text": "the neurons are are going to be kind of"
+    },
+    {
+        "start": 3957.359,
+        "text": "shut down or killed in a forward pass"
+    },
+    {
+        "start": 3959.96,
+        "text": "and you're only going to forward pass"
+    },
+    {
+        "start": 3961.64,
+        "text": "information with the other 50% of your"
+    },
+    {
+        "start": 3964.079,
+        "text": "neurons so this idea is extremely"
+    },
+    {
+        "start": 3966.64,
+        "text": "powerful actually because it lowers the"
+    },
+    {
+        "start": 3968.599,
+        "text": "capacity of our neural network it not"
+    },
+    {
+        "start": 3970.64,
+        "text": "only lowers the capacity of our neural"
+    },
+    {
+        "start": 3972.359,
+        "text": "network but it's dynamically lowering it"
+    },
+    {
+        "start": 3974.599,
+        "text": "because on the next iteration we're"
+    },
+    {
+        "start": 3976.52,
+        "text": "going to pick a different 50% of neurons"
+    },
+    {
+        "start": 3978.72,
+        "text": "that we drop out so constantly the"
+    },
+    {
+        "start": 3980.68,
+        "text": "network is going to have to learn to"
+    },
+    {
+        "start": 3982.68,
+        "text": "build Pathways different pathways from"
+    },
+    {
+        "start": 3985.799,
+        "text": "input to output and that it can't rely"
+    },
+    {
+        "start": 3988.16,
+        "text": "on any small any small part of the"
+    },
+    {
+        "start": 3990.319,
+        "text": "features that are present in any part of"
+    },
+    {
+        "start": 3992.52,
+        "text": "the training data set too extensively"
+    },
+    {
+        "start": 3994.72,
+        "text": "right because it's constantly being"
+    },
+    {
+        "start": 3995.96,
+        "text": "forced to find these different Pathways"
+    },
+    {
+        "start": 3998.52,
+        "text": "with random"
+    },
+    {
+        "start": 4000.359,
+        "text": "probabilities so that's Dropout the"
+    },
+    {
+        "start": 4002.599,
+        "text": "second regularization technique is going"
+    },
+    {
+        "start": 4004.76,
+        "text": "to be this notion called early stopping"
+    },
+    {
+        "start": 4006.72,
+        "text": "which is actually something that is"
+    },
+    {
+        "start": 4008.96,
+        "text": "model agnostic you can apply this to any"
+    },
+    {
+        "start": 4011.039,
+        "text": "type of model as long as you have a"
+    },
+    {
+        "start": 4012.44,
+        "text": "testing set that you can play around"
+    },
+    {
+        "start": 4013.96,
+        "text": "with so the idea here"
+    },
+    {
+        "start": 4016.039,
+        "text": "is that we have already a pretty formal"
+    },
+    {
+        "start": 4019.0,
+        "text": "mathematical definition of what it means"
+    },
+    {
+        "start": 4021.359,
+        "text": "to overfit right overfitting is just"
+    },
+    {
+        "start": 4023.88,
+        "text": "when our model starts to perform worse"
+    },
+    {
+        "start": 4026.0,
+        "text": "on our test set that's really all it is"
+    },
+    {
+        "start": 4028.559,
+        "text": "right so what if we plot over the course"
+    },
+    {
+        "start": 4031.44,
+        "text": "of training so x-axis is as we're"
+    },
+    {
+        "start": 4033.16,
+        "text": "training the model let's look at the"
+    },
+    {
+        "start": 4035.16,
+        "text": "performance on both the training set and"
+    },
+    {
+        "start": 4037.24,
+        "text": "the test set so in the beginning you can"
+    },
+    {
+        "start": 4040.039,
+        "text": "see that the training set and the test"
+    },
+    {
+        "start": 4041.92,
+        "text": "set are both going down and they"
+    },
+    {
+        "start": 4043.839,
+        "text": "continue to go down uh which is"
+    },
+    {
+        "start": 4046.079,
+        "text": "excellent because it means that our"
+    },
+    {
+        "start": 4047.16,
+        "text": "model is getting stronger eventually"
+    },
+    {
+        "start": 4049.119,
+        "text": "though what you'll notice is that the"
+    },
+    {
+        "start": 4050.92,
+        "text": "test loss plateaus and starts to"
+    },
+    {
+        "start": 4054.72,
+        "text": "increase on the other hand the training"
+    },
+    {
+        "start": 4057.0,
+        "text": "loss there's no reason why the training"
+    },
+    {
+        "start": 4058.839,
+        "text": "loss should ever need to stop going down"
+    },
+    {
+        "start": 4061.279,
+        "text": "right training losses generally always"
+    },
+    {
+        "start": 4063.2,
+        "text": "continue to Decay as long as there is"
+    },
+    {
+        "start": 4066.599,
+        "text": "capacity in the neural network to learn"
+    },
+    {
+        "start": 4069.2,
+        "text": "those differences right but the"
+    },
+    {
+        "start": 4070.72,
+        "text": "important point is that this continues"
+    },
+    {
+        "start": 4073.24,
+        "text": "for the rest of training and we want to"
+    },
+    {
+        "start": 4075.2,
+        "text": "BAS basically we care about this point"
+    },
+    {
+        "start": 4077.64,
+        "text": "right here right this is the really"
+    },
+    {
+        "start": 4079.119,
+        "text": "important point because this is where we"
+    },
+    {
+        "start": 4081.76,
+        "text": "need to stop training right after this"
+    },
+    {
+        "start": 4083.76,
+        "text": "point this is the happy medium because"
+    },
+    {
+        "start": 4085.72,
+        "text": "after this point we start to overfit on"
+    },
+    {
+        "start": 4089.319,
+        "text": "parts of the data where our training"
+    },
+    {
+        "start": 4091.039,
+        "text": "accuracy becomes actually better than"
+    },
+    {
+        "start": 4093.2,
+        "text": "our testing accuracy so our testing"
+    },
+    {
+        "start": 4094.64,
+        "text": "accuracy is going bad it's getting worse"
+    },
+    {
+        "start": 4097.319,
+        "text": "but our training accuracy is still"
+    },
+    {
+        "start": 4098.719,
+        "text": "improving so it means overfitting on the"
+    },
+    {
+        "start": 4100.88,
+        "text": "other hand on the left hand"
+    },
+    {
+        "start": 4102.839,
+        "text": "side this is the opposite problem right"
+    },
+    {
+        "start": 4105.64,
+        "text": "we have not fully utilized the capacity"
+    },
+    {
+        "start": 4107.719,
+        "text": "of our model and the testing accuracy"
+    },
+    {
+        "start": 4109.839,
+        "text": "can still improve further right this is"
+    },
+    {
+        "start": 4112.48,
+        "text": "a very powerful idea but it's actually"
+    },
+    {
+        "start": 4114.52,
+        "text": "extremely easy to implement in practice"
+    },
+    {
+        "start": 4116.6,
+        "text": "because all you really have to do is"
+    },
+    {
+        "start": 4118.279,
+        "text": "just monitor the loss of over the course"
+    },
+    {
+        "start": 4120.759,
+        "text": "of training right and you just have to"
+    },
+    {
+        "start": 4122.199,
+        "text": "pick the model where the testing"
+    },
+    {
+        "start": 4123.96,
+        "text": "accuracy starts to get"
+    },
+    {
+        "start": 4126.64,
+        "text": "worse so I'll conclude this lecture by"
+    },
+    {
+        "start": 4128.92,
+        "text": "just summarizing three key points that"
+    },
+    {
+        "start": 4130.92,
+        "text": "we've cover covered in the class so far"
+    },
+    {
+        "start": 4133.319,
+        "text": "and this is a very g-pack class so the"
+    },
+    {
+        "start": 4136.08,
+        "text": "entire week is going to be like this and"
+    },
+    {
+        "start": 4138.08,
+        "text": "today is just the start so so far we've"
+    },
+    {
+        "start": 4140.359,
+        "text": "learned the fundamental building blocks"
+    },
+    {
+        "start": 4142.44,
+        "text": "of neural network starting all the way"
+    },
+    {
+        "start": 4144.239,
+        "text": "from just one neuron also called a"
+    },
+    {
+        "start": 4145.92,
+        "text": "perceptron we learned that we can stack"
+    },
+    {
+        "start": 4148.48,
+        "text": "these systems on top of each other to"
+    },
+    {
+        "start": 4151.0,
+        "text": "create a hierarchical network and how we"
+    },
+    {
+        "start": 4154.08,
+        "text": "can mathematically optimize those types"
+    },
+    {
+        "start": 4156.279,
+        "text": "of systems and then finally in the very"
+    },
+    {
+        "start": 4158.04,
+        "text": "very last part of the class we talked"
+    },
+    {
+        "start": 4159.6,
+        "text": "about just techniques tips and"
+    },
+    {
+        "start": 4161.719,
+        "text": "techniques for actually training and"
+    },
+    {
+        "start": 4163.52,
+        "text": "applying these systems into practice ice"
+    },
+    {
+        "start": 4166.359,
+        "text": "now in the next lecture we're going to"
+    },
+    {
+        "start": 4167.88,
+        "text": "hear from Ava on deep sequence modeling"
+    },
+    {
+        "start": 4170.759,
+        "text": "using rnns and also a really new and"
+    },
+    {
+        "start": 4174.52,
+        "text": "exciting algorithm and type of model"
+    },
+    {
+        "start": 4176.88,
+        "text": "called the Transformer which uh is built"
+    },
+    {
+        "start": 4180.279,
+        "text": "off of this principle of attention"
+    },
+    {
+        "start": 4182.239,
+        "text": "you're going to learn about it in the"
+    },
+    {
+        "start": 4183.4,
+        "text": "next class but let's for now just take a"
+    },
+    {
+        "start": 4185.679,
+        "text": "brief pause and let's resume in about"
+    },
+    {
+        "start": 4187.64,
+        "text": "five minutes just so we can switch"
+    },
+    {
+        "start": 4188.96,
+        "text": "speakers and Ava can start her"
+    },
+    {
+        "start": 4191.199,
+        "text": "presentation okay thank you"
+    }
+]
