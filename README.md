@@ -11,11 +11,11 @@ Examples on HuggingFace Space:
 
 ### From raw transcript to structured document
 
-<img src="raw_to_structure.png" width=500>
+<img src="raw_to_structure.png" width=1000>
 
 ### Workflow
 
-<img src="stages.png" width=500>
+<img src="stages.png" width=1000>
 
 
 
